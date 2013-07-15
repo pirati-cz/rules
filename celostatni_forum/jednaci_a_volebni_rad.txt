@@ -1,0 +1,515 @@
+====== Jednací a volební řád celostátního fóra ======
+
+<div ustanoveni #stranicke-organy>
+  ? Stranické orgány
+  : znamenají orgány strany a orgány organizačních jednotek strany. 
+</div>
+
+<div highlight #predsedajici>
+  ? Předsedající
+  : označuje toho, kdo řídí jednání celostátního fóra. Přísluší mu moderovat diskusi, zejména udělovat a odnímat slovo, kde to povaha jednání vyžaduje. Předsedající se vybírá z účastníků jednání na základě procedurálního návrhu; jinak je předsedajícím předseda nebo místopředseda strany, z nich předsedá vždy nejvýše postavený člen předsednictva, který k tomu projeví vůli. Obdobné platí pro přijímání návrhů, pokud předsednictvo nestanoví věcnou působnost svých členů. Při hlasování na internetu se jím rozumí rovněž vedoucí administrativního odboru nebo jeho člen, který byl k tomu pověřen.
+</div>
+
+<div #radneoznameni>
+  ? Řádné oznámení
+  : znamená vážné prohlášení doručené všem adresátům, které nevzbuzuje pochyby o věrohodnosti. Doručeným prohlášením se především míní osobní oznámení svolaným členům nebo písemné oznámení všem členům daného orgánu. Za věrohodný způsob se považuje především písemný projev s vlastnoručním podpisem, bdělý a rozvážný ústní projev oznamujícího nebo elektronický písemný projev zaručující osobu oznamovatele podle předpisu o elektronických systémech strany. Pokud řádně oznamuje orgán svolání zasedání, zveřejní to oznámení i na svých webových stránkách, popř. na webových stránkách nejbližší úrovně. Součástí řádného oznámení hlasování je i předběžný návrh, který může být ještě dopracovaný během plynutí lhůty, a doba, kdy se oznamované vykoná. Lhůta mezi oznámením a vykonáním oznamovaného nesmí být kratší, než určuje následující tabulka. Za řádně oznámené hlasování nebo zasedání se pak považuje hlasování v období vymezeném oznámením.
+</div>
+
+^ Svolávaný orgán ^ Lhůta ^
+|Zasedání celostátního fóra |  30 dní|
+|Hlasování mimo zasedání celostátního fóra|  3 dny|
+|Zasedání krajského fóra |  10 dní|
+|Hlasování oblastního fóra |  3 dny|
+|Zasedání republikového výboru |  10 dní|
+|Zasedání komise |  10 dní|
+
+<div #vyhlaseni>
+  ? Vyhlášení
+  : se provádí řádným oznámením.
+</div>
+
+<div #jednani>
+  ? Jednání
+  : znamená postup, který vede celostátní fórum k usnesení. Jednání má přesně vymezený věcný obsah, popsaný tímto řádem. Zatím přicházejí v úvahu jednání celostátního fóra na internetu a na zasedání, ve výjimečných případech jednání písemná.
+</div>
+
+<div #zasedani>
+  ? Zasedání
+  : představuje formu jednání celostátního fóra, při které se celá strana fyzicky setkává a působí jako jedno těleso v časové i místní současnosti. Přitom se veškerá ostatní jednání přerušují a probíhá v daném čase jen jedno jednání na zasedání.
+</div>
+
+<div #pozorovatel>
+  ? Pozorovatel
+  : označuje fyzickou osobu, která je na jednání oprávněně přítomna.
+</div>
+
+<div #ucastnik>
+  ? Účastník
+  : označuje fyzickou osobu, která je na jednání oprávněně přítomna a má právo vystoupit v rozpravě, popř. předkládat návrhy.
+</div>
+
+<div #hlasujici>
+  ? Hlasující
+  : označuje účastníka, který má hlasovací právo; pokud se týká hlasování, míní se tím takový účastník, který hlasovací právo oprávněně vykonal.
+</div>
+
+== §1 Účel předpisu ==
+
+Tento předpis upravuje jednání celostátního fóra a jeho zasedání, mj. hlasování a volby do orgánů strany, a oprávnění a povinnosti některých dalších orgánů.
+
+===== Jednání =====
+
+== §2 Usnesení ==
+
+(1) Celostátní fórum se ve věcech své pravomoci ([[st#p8-5|čl. 8(5), (6) stanov]]) rozhoduje usnesením, volbou a odvoláním.
+
+(2) Usnesení vzniká schválením věcného návrhu usnesení hlasováním. Volba probíhá osobnostním hlasováním o navržených kandidátech. Odvolání probíhá schválením osobnostního návrhu hlasováním.
+
+(3) Platnost usnesení se počítá od vyhlášení.
+
+(4) V usnesení se vyznačí jeho platnost a účinnost, která působí do budoucna.
+
+(5) Pokud žádný z účastníku neohlásil proti zápisu do 10 dnů od zveřejnění protest, považuje se zápis za přijatý. Zápis a usnesení podepisují předsedající, zapisovatel a ověřovatel. Zápis se zveřejňuje řádným oznámením do 10 dnů od skončení jednání. Zápis obsahuje 
+  * a) předmět, čas a způsob jednání,
+  * b) seznam hlasujících a jejich počet,
+  * c) způsob, jakým byla splněna podmínka usnášeníschopnosti,
+  * d) jména předsedajícího, hlasujících členů předsednictva,
+  * e) jména zapisovatele a ověřovatele,
+  * f) pořad jednání,
+  * g) přijatá usnesení a výsledky voleb,
+  * h) výsledky hlasování a jména těch, kdo zajišťovali sčítání hlasů.
+
+(6) Administrativní odbor vyhotovuje z jednání bezprostřední záznam (logování všech projevů a změn, nahrávání na diktafon), který je neveřejný a slouží výlučně k řešení sporů uvnitř strany; záznam se uchovává nejméně po dobu 12 měsíců.
+
+== §3 Zásada ne bis in idem ==
+
+Návrh již zamítnutý, nebo návrh lišící se od něho jen ve věcech, které na projednání nemají vliv nebo jsou zjevně stejně nepřijatelné jako návrh sám, nelze vznést znova před stejným celostátním fórem. Pokud se změní členstvo více než o desetinu (počet fyzických osob, u nichž se změnil status člena, dělený počtem těch, kteří byli aspoň v jednom okamžiku členy) nebo uplyne od rozhodnutí u věcných návrhů rok, u osobnostních návrhů půl roku, toto omezení zaniká. Toto ustanovení lze rovněž pro daný případ omezit přijetím zásadního procedurálního návrhu.
+
+== §4 Svolání jednání ==
+
+<div #p4-1>
+(1) Jednání celostátního fóra svolává předsedající ve věci, která již není na pořadu jiného jednání nebo zasedání celostátního fóra a jejímuž projednání nebrání zásada ne bis in idem.
+</div>
+
+<div #p4-2>
+(2) Jinak jednání předsedající svolá
+  * a) pokud jej o to požádá člen předsednictva strany, republikový výbor, vedoucí odboru, nebo komise,
+  * b) pokud jej o to požádá nejméně pětina členů společně s návrhem pořadu jednání (např. [[st#p8-5-h|čl. 8(5)h stanov]]),
+  * c) pokud se na tom celostátní fórum usneslo,
+  * d) pokud účastník ukončeného jednání do 10 dnů od zveřejnění zápisu ohlásil protest,
+  * e) pokud se uvolní funkce volená celostátním fórem.
+</div>
+
+<div #p4-3>
+(3) Při svolání jednání přihlíží předsedající k požadavkům orgánu, který ho o to požádal, aby meškání nezpůsobilo újmu.
+</div>
+
+<div #p4-4>
+(4) Po uvolnění funkce volené celostátním fórem se jednání svolá neprodleně. Pokud lze však uvolnění očekávat, svolá se jednání nejpozději měsíc před očekávaným uvolněním.
+</div>
+
+== §5 Zahájení a ukončení jednání ==
+
+(1) Předsedající zahájí jednání ve stanovenou dobu bez ohledu na počet hlasujících. Předsedající oznámí účastníkům zahájení jednání celostátního fóra a okolnosti rozhodné pro jeho usnášeníschopnost, zejména
+  * a) počet hlasujících, počet těch, kteří mají právo hlasovat, ale nejsou účastníky, a počet omluvených, nebo
+  * b) pokud bylo jednání řádně oznámeno, vysloví to a odkáže na způsob, kterým se tak stalo, a kdy musí proběhnout hlasování, aby bylo řádné oznámení zachováno.
+
+(2) Předsedající může navrhnout pozorovatele nebo prohlásit jednání za veřejné, což nechá potvrdit procedurálním hlasováním. 
+
+(3) Předsedající se zahájením jednání vybere jednoho zapisovatele a jednoho ověřovatele z účastníků a nechá ho potvrdit procedurálním hlasováním. 
+
+(4) Může probíhat i více jednání zároveň; při zasedání celostátního fóra se však ostatní jednání přerušují a hlasování na nich zahájená nebo částí zasahující do jednání na zasedání celostátního fóra jsou neplatná. Předchozí věta se netýká hlasování, o nichž se celostátní fórum na zasedání usnese, že budou otevřena všem členům strany; tato hlasování trvají vždy 24 hodin a považují se za řádně oznámená.
+
+(5) Předsedající oznámí účastníkům ukončení jednání, pokud bylo vše na pořadu jednání projednáno, pokud se na tom celostátní fórum procedurálně usneslo, nebo uplynula oznámená doba a celostátní fórum ji neprodloužilo. Předsedající jednání odročí nebo přeruší, pokud se na tom celostátní fórum usnese nebo vznikla překážka vážnému jednání celostátního fóra.
+
+== §6 Pořad jednání ==
+
+(1) Po zahájení se vede rozprava o návrhu pořadu jednání, který předložil předsedající s ohledem na důvod, pro nějž jednání svolal.
+
+(2) Návrh pořadu jednání lze měnit procedurálními návrhy, dokud se pořad jednání neschválí v procedurálním hlasování; doplnit pořad jednání po jeho schválení lze jen výjimečně.
+
+(3) O věcných nebo osobnostních záležitostech, které nejsou na pořadu jednání, nelze jednat ani hlasovat.
+
+(4) Jednání se nesluší protahovat déle, než nezbytno.
+
+== §7 Hierarchie návrhů ==
+
+(1) Přednost při sestavování pořadu jednání mají návrhy zásadní, návrhy uvedené v oznámení, návrhy podané předsednictvem strany a návrhy dříve podané.
+
+(2) Pokud někdo v předloží pozměňovací, eventuální nebo dodatečný návrh, rozhodne se o něm před hlasováním o původním návrhu.
+
+(3) Je-li v téže věci předloženo několik předloh, rozhodne celostátní fórum o tom, kterou projednávat.
+
+== §8 Návrhové oprávnění ==
+
+(1) Při projednávání návrhu má výjimečné postavení navrhovatel, nebo ten účastník jednání, kterého pro přednesení návrhu navrhovatel pověřil (zpravodaj). Zpravodaj uvádí návrhy usnesení celostátnímu fóru. Za nepřítomného zpravodaje jmenuje navrhovatel náhradníka, pokud není přítomen ani navrhovatel, jmenuje zpravodaje předsedající.
+
+(2) Návrhy celostátnímu fóru předkládá
+  * a) předsednictvo a republikový výbor,
+  * b) komise ve věcech spadajících do působnosti komise,
+  * c) vedoucí odboru ve věcech spadajících do působnosti odboru,
+  * d) hlasující.
+
+(3) Předsedající může dát procedurálně hlasovat, zda se návrhem bude celostátní fórum zabývat, pokud nevyplývá z tohoto předpisu něco jiného.
+
+(4) Navrhovatel může návrh stáhnout do ukončení rozpravy.
+
+== §9 Poznámky ==
+
+(1) Poznámky se pronášejí přednostně kdykoliv během jednání. Předsedající obvykle řečníka nechá domluvit, výjimečně ho požádá o přerušení. Přednes poznámky nesmí přesáhnout 2 minuty nebo 1000 znaků. V poznámce nelze uplatňovat věcná stanoviska k projednávané otázce. 
+
+(2) Za poznámky se považují
+  * a) faktická poznámka reagující na průběh rozpravy, kterou může doprovázet i procedurální návrh týkající se projednávaných bodů,
+  * b) technická poznámka, kterou lze reagovat na technické problémy (není slyšet, hluk, zima, ad.),
+  * c) procedurální poznámka, pokud nebyla dodržena řádná procedura. 
+
+== §10 Rozprava ==
+
+(1) Podle pořadu jednání se o návrzích koná rozprava, ve které mohou vystoupit účastníci. Rozprava se nekoná o procedurálních návrzích.
+
+(2) Rozprava probíhá vyjádřením účastníků k projednávanému návrhu v pořadí určeném časem přihlášením. Navrhovatel při projednávání požívá časové a věcné přednosti; navrhovatel má závěrečné slovo před hlasováním, kterého se může vzdát nebo může slovo vypršet pro jeho nepřítomnost. Členovi předsednictva strany se udělí slovo, kdykoliv o to požádá.
+
+(3) Řečník nesmí být nikým přerušován, vyjma předsedajícího podle [[rules:jdr#p12|§12]].
+
+(4) Chce-li se rozpravy účastnit předsedající, předá řízení jednání. Při předání řízení přecházejí všechny povinnosti předsedajícího.
+
+(5) Do rozpravy se může být v dané chvíli přihlášen jeden účastník jen jednou.
+
+(6) Předsedající rozpravu uzavře, pokud do ní není nikdo přihlášen, uplynul čas na ní vyhrazený nebo se procedurálním hlasováním celostátní fórum usnese na jejím uzavření. Před uzavřením přečte jména těch, kteří jsou do rozpravy ještě přihlášeni, ale nevystoupili, a přijme poslední přihlášky. Po uzavření rozpravy se mohou vyjádřit ještě ti, kdo jsou přihlášeni.
+
+(7) Po uzavření rozpravy se řečnická doba nebo písemný prostor zkracují na dobu nezbytně nutnou, pokud se celostátní fórum procedurálně neusnese jinak.
+
+== §11 Omezení rozpravy ==
+
+(1) Hlasováním o proceduře se může celostátní fórum usnést, že hlasování se vykoná bez rozpravy, nebo že budou řečnická doba nebo písemný prostor omezeny.
+
+(2) V rozpravě se účastník neobrací přímo na jiné účastníky a případné dotazy na ně klade prostřednictvím předsedajícího.
+
+(3) Účastník rozpravy, kterému předsedající udělil slovo, má mluvit k projednávané věci. Odchyluje-li se od ní, nebo překročí-li stanovenou řečnickou dobu, může na to předsedající účastníka upozornit a volat jej k věci. 
+
+
+== §12 Pořádková opatření ==
+
+<div #p12>
+(1) Za nepřístojné chování při jednání může předsedající uložit účastníkovi jednání napomenutí.
+
+(2) Za opakované nepřístojné chování v blízké době (zasedání) nebo při jednání o jedné věci může předsedající vykázat člena z jednání. 
+
+(3) Vybočuje-li účastník svým projevem z mezí slušnosti, může jej předsedající volat k pořádku. Nevedlo-li dvojí upozornění k nápravě, může mu slovo odejmout. 
+
+(4) Napomenutí, vykázání nebo odejmutí slova může člen bezprostředně po uložení napadnout v procedurálním hlasování, kde rozhodne celostátní fórum konečně.
+
+(5) Projevy nepřístojného chování buďtež, kde je to možné, vyčleněny ze záznamu jednání do zvláštního záznamu. 
+
+(6) Pořádková opatření se nedotýkají hlasovacího práva; předsedající upozorní vykázané členy před hlasováním tak, aby se ho mohli účastnit.
+</div>
+
+==== Hlasování =====
+
+== §13 Hlasovací právo ==
+
+(1) Hlasovací právo náleží těm, kteří byli členy strany v celé době oznámení hlasování, pokud nebyli do odevzdání hlasu pravomocně vyloučeni ze strany.
+
+(2) Právo účasti náleží všem členům a registrovaným příznivcům a těm, které k tomu opravňuje zákon. Dále náleží těm, kterým je udělilo celostátní fórum, předsednictvo strany, republikový výbor, komise, vedoucí odboru; celostátní fórum však může takové udělení odebrat. 
+
+(3) Účast lze omezit pořádkovými opatřeními a pravomocným rozhodnutím rozhodčí komise; hlasování lze omezit výlučně pravomocným rozhodnutím rozhodčí komise.
+
+(4) Pokud tento řád nestanoví, že se vykonává zastoupením delegáty, rozumí se, že se vykonává přímo a osobně.
+
+== §14 Seznam členů ==
+
+(1) Administrativní odbor vede seznam členů strany obsahující údaje rozhodné pro členství a funkce členů v stranických orgánech. Oblastní sdružení oznámí změnu okolností týkajících se členství, do týdne, kdy se o ní dozví.
+
+(2) Pro výkon hlasovacího práva se užívá seznam členů; údaje v něm uvedené se považují za správné, pokud se neprokáže opak.
+
+(3) Administrativní odbor vede seznam hlasujících a účastníků na jednání.
+
+(4) Námitky proti omezení účasti toho, kdo trvá na svém oprávnění účastnit se jednání celostátního fóra, předloží administrativní odbor celostátnímu fóru, které o nich bezodkladně rozhodne procedurálním hlasováním; toto ustanovení nebrání přezkoumání rozhodčí komisí.
+
+== §15 Zásada srozuměnosti ==
+
+(1) Nelze hlasovat o návrzích, o jejichž znění se hlasující nemohou informovat.
+
+(2) Návrhy lze předkládat v mateřském jazyce předkladatele; písemné návrhy předložené v jiném než českém jazyce se přeloží do češtiny. Nemluví-li řečník česky, přibere se tlumočník, pokud o to kdokoliv požádá. 
+
+== §16 Tajnost hlasování ==
+
+(1) Tajně se hlasuje
+  * a) v osobnostních otázkách,
+  * b) pokud lze volit z více než dvou variant vyjadřujících intenzitu (např. čísla),
+  * c) pokud o to požádá kdokoliv z hlasujících před zahájením hlasování ([[st#p6-6|čl. 6(6) stanov]]).
+
+(2) Jinak o tajnosti hlasování rozhoduje předsedající.
+
+== §17 Sčítání hlasů ==
+
+Sčítání hlasů zajišťuje elektronické zařízení ve správě 
+administrativního odboru, pokud celostátní fórum neurčí, že mají 
+hlasování zajišťovat nejméně dva skrutátoři, které z účastníků 
+zvolí. Skrutátoři sčítají nezávisle na sobě; oba oznámí 
+předsedovi nahlas výsledek, pokud se shoduje, předseda ho 
+zopakuje, jinak se hlasy přepočítají.
+
+== §18 Hlasování ==
+
+(1) Hlasování zahajuje předsedající, který oznámí návrh, o kterém se hlasuje, čas, kdy bude probíhat hlasování a způsob hlasování. 
+
+(2) Doby hlasování na internetu určuje následující tabulka.
+
+^Typ lhůty na internetu ^ doba ^
+|Vyvrácení zřejmého procedurálního hlasování | 6 hodin |
+|Osobnostní nebo věcné hlasování | 48 hodin |
+|Procedurální hlasování | 24 hodin |
+
+==== Procedurální hlasování ====
+
+  ? Procedurální návrhy
+  : znamenají návrhy, kterými celostátní fórum upravuje chod jednání, aby bylo řádné a odráželo vůli členů strany.
+
+== §19 Námitky ==
+
+(1) Pokud se účastník zmýlil ve věcném nebo osobnostním hlasování nebo nastaly jiné okolnosti, které by mohly volbu zpochybnit, podá námitku bezprostředně po volbě předsedajícímu, který dá procedurálně hlasovat o opakovaném hlasování. Všechny obdobné návrhy k danému hlasování se uplatní najednou.
+
+(2) Pokud je usnesení přijato i přes námitku správnosti, může se ten, kdo má hlasovací právo, obrátit na rozhodčí komisi stížností, a požadovat, aby se tato okolnost uvedla do zápisu.
+
+(3) Nevykazuje-li usnesení neodstranitelnou vadnost způsobenou absolutním nedostatkem působnosti nebo pravomoci, považuje se za přijaté a může vstoupit v platnost ([[st#p6-1|čl. 6(1)]] a [[st#p6-4|6(4) St]]), což nebrání rozhodčí komisi ve vyslovení neplatnosti, pokud zjistí odstranitelnou vadnost, která by měla vliv na výsledek hlasování.
+
+== §20 Typy procedurálních hlasování ==
+
+(1) Za procedurální hlasování se považují hlasování o
+  * a) odročení návrhu,
+  * b) zamítnutí návrhu,
+  * c) návrhu jiné předlohy,
+  * d) pozměňovacím návrhu, eventuálním nebo dodatečném návrhu,
+  * e) návrh na vypuštění části návrhu,
+  * f) udělení práva účasti fyzické osobě,
+  * g) změně předsedajícího, skrutátora, zapisovatele nebo ověřovatele,
+  * h) zákazu předsedajícímu vyslovovat zřejmé výsledky procedurálního hlasování,
+  * i) námitce proti věcnému nebo osobnostnímu hlasování,
+  * j) chybách v seznamu členů,
+  * k) odkázání jinému orgánu,
+  * l) omezení rozpravy,
+  * m) znovuotevření rozpravy,
+  * n) vyhlášení přestávky,
+  * o) přibrání tlumočníka,
+  * p) změně pořadu jednání,
+  * q) ukončení jednání,
+  * r) odročení jednání,
+  * s) přesunu pravomocí odvolaného člena,
+  * t) výjimce ze zásady ne bis in idem,
+  * u) nesprávnosti procedury,
+  * v) způsobu losování.
+
+(2) Průběh věcného nebo osobnostního hlasování brání předkládání a výkonu týkajících se procedurálních hlasování. 
+
+== §21 Způsoby procedurálního hlasování ==
+
+(1) Procedurální hlasování probíhá
+  * a) konsensem, pokud se žádný hlasující neozve proti procedurálnímu návrhu, zpravodaje v to nepočítaje,
+  * b) optickou většinou nebo většinou vzorku, je-li výsledek hlasování o procedurálním návrhu zcela zřejmý a není třeba zjišťovat přesné počty hlasů a neozve-li se proti tomuto způsobu žádný hlasující, zpravodaje v to nepočítaje,
+  * c) hlasováním většinou, sčítaným podle tohoto řádu.
+
+(2) Procedurální postup řídí předsedající; opakovanému chybnému výkonu procedurálního zasedání může celostátní fórum předejít tím, že zakáže předsedajícímu jiná hlasování než sčítaná. Celostátní fórum může zákaz odvolat.
+
+==== Věcné hlasování ====
+
+  ? Věcné návrhy
+  : znamenají takové návrhy, kterými se celostátní fórum usnáší na předpisech, vyjadřuje hodnotící soudy nebo ukládá úkoly podřízeným orgánům se lhůtou, do níž mají být splněny.
+
+== §22 Podklady ==
+
+Věcné návrhy musí být podány písemně společně s návrhem příslušného usnesení a, kde je to nutné, podloženy důvodovou zprávou. Z návrhů nebo podkladů musí být zřejmý dopad na 
+stranický rozpočet a kdo usnesení vykoná.
+
+== §23 Pořadí procedurálních návrhů ==
+
+(1) Po ukončení rozpravy oznámí zpravodaj, v jakém pořadí se bude o procedurálních návrzích k danému věcnému návrhu hlasovat. Je-li podáno více návrhů, hlasuje se v pořadí, v jakém byly předloženy, a to postupně podle skupin:
+  * návrh na odročení,
+  * návrh na zamítnutí,
+  * návrh jiné předlohy,
+  * návrh pozměňovací,
+  * návrh eventuální nebo dodatečný,
+  * návrh na vypuštění části návrhu.
+
+(2) Čas hlasování o věcném návrhu se přiměřeně posune, dokud nebudou procedurální návrhy vyřešeny.
+
+== §24 Vyhlášení výsledků ==
+
+Po ukončení hlasování vyhlásí předseda výsledek hlasování, počet hlasujících, počet těch, kteří hlasovali pro jednotlivé možnosti a počet těch, kteří se zdrželi.
+
+==== Osobnostní hlasování ====
+
+  ? Osobnostní hlasování
+  : znamená hlasování o tom, zda některé osoby budou vykonávat stranické funkce. Za osobnostní hlasování se považují volby a odvolání, které mohou probíhat jak po členech, tak pro celý orgán.
+
+== §25 Volební komise ==
+
+(1) Pokud před konáním voleb není ustavena volební komise, ustanoví se její členové procedurálním hlasováním o kandidátech navržených předsedajícím. Nepodaří-li se takto komisi ustavit, rozhodne los. Vylosované pověří předsedající, aby vykonávali funkci ve volební komisi, než budou zvoleni členové volební komise.
+
+(2) Volební komise zabezpečuje tajné a spravedlivé hlasování a vyhlašuje výsledky osobnostních hlasování. Po každém kole volby se vyhlašuje počet vydaných lístků, platných a neplatných lístků, počet hlasů pro jednotlivé kandidáty, jména všech kandidátů s oznámením, zda byl zvolen nebo postoupil do dalšího kola.
+
+(3) Hlasuje se označením písmene X do pole před jménem. Hlasovací lístky obsahující vyšší než přípustný počet hlasů jsou neplatné. Hlasovací lístky parafují alespoň dva pověření členové volební komise při výdeji. Zapisuje se, komu byl hlasovací lístek vydán. Po hlasování se zapečetěná urna promíchá, otevře a členové volební komise v ústraní (přítomni mohou být dál jen členové kontrolní komise) vespolek spočítají hlasy, o hlasování vyhotoví zápis, hlasovací lístky zapečetí do obálky a uschovají po dobu nejméně 12 měsíců. 
+
+(4) Pečeť na obálce smí porušit jen rozhodčí komise v rámci přezkumu.
+
+== §26 Vyhlášení voleb ==
+
+Volby vyhlašuje předsedající do dvou týdnů od termínu pro svolání jednání ([[#p4-4|§4(4) JdŘ]]).
+
+=== Obecná ustanovení ===
+
+== §27 Zásada dobrovolnosti ==
+
+Do volby nemůže být navržen ten, kdo s tím nesouhlasí. 
+
+== §28 Rozprava při volbách a odvoláních ==
+
+(1) Kandidáti na funkce mají postavení zpravodajů. Každý kandidát na funkci popíše v rozpravě způsob, jakým bude funkci vykonávat, a jakou má k výkonu funkce způsobilost.
+
+(2) Obdobně probíhá rozprava při odvolání orgánů a funkcionářů.
+
+== §29 Odvolání ==
+
+<div #p29>
+(1) Každý funkcionář volený celostátním fórem může být odvolán většinou hlasujících.
+
+(2) Každý orgán volený celostátním fórem může být odvolán většinou hlasujících.
+
+(3) Zrušením orgánu strany nebo uplynutím jeho volebního období rozumí se i odvolání jeho členů.
+
+(4) Pokud funkci už nikdo nevykonává, pověří předseda strany způsobilého člena výkonem nezbytných pravomocí patřících k funkci do doby, než celostátní fórum zvolí náhradníka. Pokud celostátní fórum nestanoví něco jiného, přesouvá se přitom pořadí místopředsedů. Celostátní fórum volí náhradníky jako v doplňující volbě; při doplňující volbě se přiměřeně použijí ustanovení o způsobu volby.
+
+(5) Odvolání orgánu strany bez pověření výkonem funkce orgánu osobou nebo několika osobami, které budou jednat společně, nemá platnosti.
+</div>
+
+=== Zvláštní ustanovení ===
+
+== §30 Předsednictvo ==
+
+(1) Do předsednictva strany a republikového výboru navrhují členy strany účastníci z kraje většinou nebo předloženým usnesením krajského fóra.
+
+<div #p30-2>
+(2) Předseda je volen ve dvou kolech.
+  * a) V prvním kole může každý hlasující hlasovat pro libovolný počet kandidátů.
+  * b) Do druhého kola postupují kandidáti, kteří získali nadpoloviční většinu hlasů. Pokud by do druhého kola měl postoupit jediný kandidát, je postupující kandidát zvolen v prvním kole a volba končí.
+  * c) Ve druhém kole má každý hlasující jeden hlas. Ve druhém kole vítězí kandidát, který získá největší počet hlasů. V případě rovnosti hlasů rozhoduje los.
+</div>
+
+(3) Pro volbu všech místopředsedů se použijí stejné principy jako pro volbu předsedy; místopředsedové se volí se zvyšujícím se pořadím.
+
+== §31 Republikový výbor ==
+
+(1) Na volené členy republikového výboru navrhují členy strany účastníci z kraje většinou nebo předloženým usnesením krajského fóra.
+
+<div #p31-2>
+(2) Republikový výbor se volí ve dvoukolovém systému. Hlasující nemusí použít všechny hlasy, které mají. Před prvním kolem se určí počet členů do republikového výboru, který se bude volit.
+  * a) V prvním kole má každý hlasující tolik hlasů, kolik je kandidátů.
+  * b) Do druhého kola postupují kandidáti, kteří získali nadpoloviční většinu hlasů. Pokud by do druhého kola nemělo postoupit víc kandidátů, než činí určený počet volených členů, jsou postupující kandidáti zvoleni v prvním kole a volba končí.
+  * c) V druhém kole má každý hlasující tolik hlasů, kolik činí určený počet volených členů. Do republikového výboru jsou zvoleni kandidáti s nejvíce hlasy tak, aby počet zvolených kandidátů nepřesáhl určený počet volených členů. 
+</div>
+
+== §32 Komise ==
+
+(1) Do komise navrhují členy strany a registrované příznivce účastníci.
+
+(2) Pro volbu členů komise se použijí [[#p31-2|pravidla pro volbu volených členů republikového výboru]] přiměřeně. 
+
+== §33 Odbor ==
+
+(1) Na vedoucího odboru navrhuje člena strany předsednictvo strany, republikový výbor nebo pětina hlasujících. Návrh na tutéž osobu se připouští.
+
+(2) Pro volbu vedoucího odboru se použijí [[#p30-2|pravidla pro volbu předsedy strany]].
+
+== §33a Ministr ==
+
+(1) Způsobilost být ministrem za Českou pirátskou stranu má jen její člen nebo registrovaný příznivec.
+
+(2) Na funkci ministra za Českou pirátskou stranu se jinak obdobně použijí pravidla pro vedoucího odboru.
+
+== §33b Garant ==
+
+(1) Způsobilost být garantem programového bodu má jen člen strany nebo registrovaný příznivec.
+
+(2) Na funkci garanta se přiměřeně použijí pravidla pro vedoucího odboru, pokud není stanoveno jinak.
+
+===== Zasedání =====
+
+  ? Organizátor
+  : zasedání označuje člena strany, který byl předsedou strany pověřen k přípravě zasedání celostátního fóra.
+
+== §34 Svolání zasedání ==
+
+(1) Zasedání celostátního fóra svolává předseda strany. Při přípravě pořadu jednání na zasedání vychází zejména z
+  * a) úkolů a usnesení celostátního fóra a republikového výboru,
+  * b) návrhů komisí a odborů. 
+
+(2) Oznámení o zasedání obsahuje
+  * a) místo, datum a čas konání zasedání a jednotlivých jednání,
+  * b) jméno organizátora zasedání, kontaktní informace a instrukce k nalezení místa zasedání,
+  * c) návrh pořadu jednání,
+  * d) omezilo-li předsednictvo z kapacitních důvodů počet hlasujících na zasedání, seznam oprávněných hlasujících ([[st#p8-3|čl. 8(3) St]]) a počet delegátů z krajů a jejich rozdělení do krajů, 
+  * e) další informace nutné k účasti, např. harmonogram lhůt.
+
+(3) Zasedání musí předseda strany svolat do 2 měsíců
+  * a) pokud jej o to požádá celostátní fórum, předsednictvo strany nebo republikový výbor ([[st#p8-4|čl. 8(4) St]]),
+  * b) pokud se celostátní fórum v hlasování vyjádřilo pro projednání změny stanov,
+  * c) pokud nebylo řádně oznámeno zasedání celostátního fóra do dvou měsíců a celostátní fórum už 11 měsíců nezasedalo ([[st#p8-3|čl. 8(3) St]]),
+  * d) pokud se celostátní fórum v hlasování vyjádřilo pro projednání rozpuštění strany.
+
+(4) Předseda strany zveřejňuje podklady pro zasedání již před jeho konáním; za zveřejnění návrhů ručí navrhovatelé.
+
+(5) Omezilo-li předsednictvo z kapacitních důvodů počet hlasujících na zasedání, dodají krajská předsednictva nejpozději do začátku zasedání administrativnímu odboru seznam delegátů z kraje. Předseda vyhlásí i počet míst pro účastníky a pozorovatele, které přiděluje organizátor zasedání podle zásad hierarchie a včasnosti.
+
+(6) Organizátor zasedání ručí za informace o místu konání zasedání a poskytuje hlasujícím instrukce k nalezení místa zasedání. Organizátor odpovídá za problémy s místem zasedání.
+
+== §34a Návrhy na změnu stanov ==
+
+(1) Jednání o návrzích na změnu stanov, které nebyly zveřejněny alespoň 30 dní před prvním dnem zasedání, je nepřípustné.
+
+(2) Celostátní fórum se na zasedání zabývá pouze těmi návrhy na změnu stanov, o jejichž projednání požádala alespoň pětina členů strany. 
+
+== §35 Omezení pozorovatelů ==
+
+(1) Na zasedání nemá přístup
+  * a) osoba, u které zákon omezuje osobní svobodu z důvodu ochrany zdraví lidu,
+  * b) osoba se zbraní nebo jiným nebezpečným předmětem, pokud ji k pozorování neopravňuje zákon; taková osoba nemá způsobilost hlasování a musí se zdržovat na vyhrazeném místě.
+
+(2) Kontrolu zbraní mohou vykonávat předsednictvem pověřené osoby.
+
+== §36 Zahájení a ukončení zasedání ==
+
+(1) Předseda ve stanovenou dobu zahájí zasedání bez ohledu na počet přítomných účastníků. Zasedání se skládá z jednání, které se zpravidla koná jedno za den. K pořadu jednání se přidá kontrola plnění usnesení celostátního fóra od posledního zasedání.
+
+(2) Jednání na zasedání lze procedurálním hlasováním prodloužit i za oznámenou dobu. Při hlasování o prodloužení jednání se za většinu přítomných považuje nejvyšší počet přítomných hlasujících.
+
+(3) Předseda oznámí účastníkům ukončení zasedání, pokud skončila všechna plánovaná jednání.
+
+== §37 Rozprava ==
+
+(1) Do rozpravy se přihlašuje písemně předsedajícímu; lze se přihlašovat i zvednutím ruky, ale písemné přihlášky mají přednost.
+
+(2) Nestanoví-li celostátní fórum v procedurálním hlasování jinak, doba na přednesení příspěvku v rozpravě nesmí přesáhnout 8 minut; toto omezení se nevztahuje na zpravodaje.
+
+===== Přechodná a závěrečná ustanovení =====
+
+== §37a Účast ve vládě ==
+
+Koaliční smlouva o účasti České pirátské strany ve vládě musí být schválena celostátním fórem, jinak je neplatná.
+
+== §38 Přechod členství po zániku ==
+
+Člen krajského sdružení, které zaniklo, přísluší do kraje, jehož sídlo je nejblíže místu, na základě kterého byl přijat do původního krajského sdružení.
+
+== §39 Některé povinnosti stranických orgánů ==
+
+(1) Orgány volené byť z části celostátním fórem bezodkladně oznámí celostátnímu fóru a předsedajícímu zánik funkce některého ze svých členů.
+
+(2) Orgány, kterým předpisy nařizují vydat určitý právní předpis nižší právní síly, ho vydají do 2 měsíců od účinnosti tohoto předpisu, např. komise předloží návrh statutu republikovému výboru, který ho s připomínkami schválí.
+
+== §40 Užití a výklad řádu ==
+
+Jednání započatá podle předchozího jednacího řádu se podle něho i  ukončí, pokud celostátní fórum nestanoví jinak. Přitom vztahy, které vznikly podle předchozích předpisů, nadále platí a na faktické okolnosti nemá vliv, že vznikly před účinností tohoto řádu. Instituty, které účinné stanovy nepředvídají, buďtež upraveny tímto řádem, vyjma případů, kdy stanovy předepisují neslučitelný postup.
+
+== §41 Účinnost ==
+
+Tento předpis nabývá účinnosti vyhlášením a provede ho předsednictvo strany.
