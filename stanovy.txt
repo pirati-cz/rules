@@ -150,10 +150,7 @@
 
 (9) Volební období republikového předsednictva kromě toho končí vždy nejdéle tři měsíce po volbách do Poslanecké sněmovny Parlamentu České republiky.
 
-(10) Každý člen může zastávat nejvýše
-  * a) jednu volenou funkci v republikovém výboru, republikovém předsednictvu, kontrolní komisi nebo rozhodčí komisi, nebo funkci předsedy krajského sdružení
-  * b) jednu funkci předsedy nebo místopředsedy komise nebo vedoucího odboru.
-  * c) celkem dvě volené funkce v komisích a odborech.
+(10) Každý člen může zastávat nejvýše jednu z funkcí vedoucího odboru, člena republikového výboru, republikového předsednictva, kontrolní komise nebo rozhodčí komise.
 
 (11) Na funkci v orgánu vykonávanou podle těchto stanov může fyzická osoba rezignovat [[#p6-3|řádným oznámením]] předsednictvu daného orgánu, v odůvodněných případech nadřízenému orgánu. Ten bere rezignaci na vědomí a informuje o ní orgán oprávněný zvolit náhradníka. Podobně se orgán může usnést na kolektivní rezignaci. Na zánik funkce se přiměřeně aplikují ustanovení o zániku členství.
 
@@ -241,9 +238,9 @@
 (1) Republikový výbor upřesňuje předpisy přijaté celostátním fórem, připravuje podklady pro celostátní fórum a rozhoduje o některých dalších, zejména odborných záležitostech.
 </div>
 
-(2) Republikový výbor se skládá z členů republikového předsednictva, z předsedů krajských sdružení a z deseti až třiceti členů volených celostátním fórem.
+(2) Republikový výbor se skládá ze čtrnácti členů volených po jednom krajskými fóry a dalších deseti až třiceti členů volených celostátním fórem.
 
-(3) Předseda strany svolává zasedání republikového výboru podle potřeby, nejméně však jednou za tři měsíce.
+(3) Republikový výbor se svolává podle potřeby, na zasedání však nejméně jednou za tři měsíce. Zasedání republikového výboru, které nesvolává předseda strany, musí být řádně oznámeno.
 
 (4) Předseda strany svolá zasedání republikového výboru do 14 dnů, požádá-li jej o to víc než pětina jeho členů.
 
@@ -257,7 +254,8 @@
   * g) projednává a schvaluje základní [[/program/|programové]] a ideové dokumenty
   * h) projednává vyžádané průběžné zprávy předsednictva,
   * i) odpovídá za kandidátní listiny pro volby do veřejných funkcí, v mimořádných a odůvodněných případech může kandidátní listinu změnit,
-  * j) rozhoduje v dalších celostátních záležitostech, kde by svolání celostátního fóra nebylo účelné nebo možné pro časovou tíseň.
+  * j) rozhoduje v dalších celostátních záležitostech, kde by svolání celostátního fóra nebylo účelné nebo možné pro časovou tíseň,
+  * k) projednává úkoly vrácené předsednictvem.
 </div>
 
 <div #p10>
@@ -271,15 +269,18 @@
   * c) plní usnesení republikového výboru a celostátního fóra,
   * d) schází se podle potřeby; sejde se vždy, požádá-li o to kterýkoli člen předsednictva,
   * e) předkládá republikovému výboru vlastní návrhy týkající se činnosti strany,
-  * f) může řádně vyhlásit nové volby předsednictva oblastního sdružení.
+  * f) může řádně vyhlásit nové volby předsednictva oblastního sdružení,
+  * g) může v odůvodněných případech před hlasováním o návrhu rozhodnout, že návrh projednávaný republikovým výborem musí být usnesen většinou všech členů republikového výboru,
+  * h) může v odůvodněných případech do dvou týdnů od vyhlášení vrátit úkol uložený republikovým výborem, který nebyl schválen jako zásadní návrh.
 
 (3) Členové republikového předsednictva mají právo zúčastnit se jednání všech organizačních jednotek a orgánů strany s hlasem poradním.
 
 (4) Jednání republikového předsednictva může být vyhlášeno za uzavřené.
 
 (5) Předseda 
-  * a) svolává zasedání celostátního fóra, republikového výboru, republikového předsednictva a předsedá jim,
-  * b) jedná jménem republikového předsednictva navenek.
+  * a) svolává zasedání celostátního fóra, republikového předsednictva a předsedá jim,
+  * b) jedná jménem republikového předsednictva navenek,
+  * c) může svolat zasedání republikového výboru.
 
 (6) Místopředsedové zastupují předsedu ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem.
 </div>
