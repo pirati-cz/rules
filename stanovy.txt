@@ -12,9 +12,9 @@
 
 (4) Strana je registrována podle [[http://www.zakonyprolidi.cz/cs/1991-424|zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů]] (dále jen ZPS), a působí v České republice.
 
+<div #p2>
 == Čl. 2 Poslání a programové cíle ==
 
-<div #p2>
 <div #p2-1>
 (1) Cílem České pirátské strany je na prvním místě prosazování základního lidského práva člověka na svobodné šíření přijaté informace a striktní ochranu soukromí občana jako odraz změněné reality informační společnosti 21. století. K dosažení tohoto cíle je nutná revize kopírovacího monopolu tak, aby se nemohl stát záminkou pro útoky na svobodu Internetu. 
 </div>
@@ -40,9 +40,9 @@
 
 ===== Členové strany a registrovaní příznivci =====
 
+<div #p3>
 == Čl. 3 Členství ==
 
-<div #p3>
 <div #p3-1>
 (1) Členem strany může být občan ČR, který
   * a) je starší 18 let, 
@@ -66,11 +66,13 @@
 
 (4) Člen sdružení může v odůvodněných případech hostovat v nejvýše jednom jiném sdružení, které k tomu svolí. Pokud to lze, má hostující člen stejná práva jako řádný člen, vyjma práva hlasovat v personálních věcech.
 
+<div #p3-5>
 (5) Členství zaniká
   * a) nezaplacením členského příspěvku ve stanovené [[/rules/prispevek#pokryti_prispevku|lhůtě]], 
   * b) [[#p6-4|řádným oznámením]] předsednictvu sdružení s uvedeným dnem ukončení členství; členství nelze ukončit se zpětnou platností,
   * c) vyloučením v případě závažného porušení stanov či opakovaného poškození dobrého jména strany, 
   * <span ustanoveni #p3-5-d> d) pozbytím způsobilosti ke členství podle [[#p3-1|čl. 3(1)]].</span>
+</div>
 
 (6) Zánik členství bere na vědomí předsednictvo příslušného sdružení, nestane-li se tak, republikové předsednictvo. Členství zaniká dnem vzetí na vědomí u právních úkonů člena, dnem právní moci příslušného rozhodnutí u právních jednání dalších osob a právních událostí.
 
@@ -159,7 +161,7 @@
 
 ==== Organizační jednotky ====
 
-== Čl. 7 Oblastní sdružení ==
+== Čl. 7 [[/regiony/|Oblastní sdružení]] ==
 
 <div #p7>
 (1) Nejmenší počet členů oblastního sdružení jsou tři.
@@ -193,9 +195,9 @@
 
 ==== Orgány ====
 
-== Čl. 8 Celostátní fórum ==
-
 <div ustanoveni #p8>
+== Čl. 8 [[/cf/|Celostátní fórum]] ==
+
 <div #p8-1>
 (1) Celostátní fórum je nejvyšším orgánem strany.
 </div>
@@ -232,9 +234,8 @@
 </div>
 </div>
 
-== Čl. 9 Republikový výbor ==
-
 <div ustanoveni #p9>
+== Čl. 9 [[/rv/|Republikový výbor]] ==
 
 <div ustanoveni #p9-1>
 (1) Republikový výbor upřesňuje předpisy přijaté celostátním fórem, připravuje podklady pro celostátní fórum a rozhoduje o některých dalších, zejména odborných záležitostech.
@@ -251,17 +252,17 @@
   * b) navrhuje zřízení komisí a odborů a schvaluje jejich statut,
   * c) schvaluje [[/rules/ropr|rozpočtová pravidla]], [[/rules/prah|pravidla hospodaření]], [[https://www.pirati.cz/fo/rozpocet2013|rozpočet strany]], [[|výsledky hospodaření]],
   * d) projednává a připravuje zprávy a návrhy pro celostátní fórum,
-  * e) může schválit vzorové jednací a volební řády,
+  * e) může schválit vzorové jednací a [[/rules/vr|volební řády]],
   * f) ukládá úkoly předsednictvu,
-  * g) projednává a schvaluje základní programové a ideové dokumenty
+  * g) projednává a schvaluje základní [[/program/|programové]] a ideové dokumenty
   * h) projednává vyžádané průběžné zprávy předsednictva,
   * i) odpovídá za kandidátní listiny pro volby do veřejných funkcí, v mimořádných a odůvodněných případech může kandidátní listinu změnit,
   * j) rozhoduje v dalších celostátních záležitostech, kde by svolání celostátního fóra nebylo účelné nebo možné pro časovou tíseň.
 </div>
 
-== Čl. 10 Republikové předsednictvo ==
-
 <div #p10>
+== Čl. 10 [[/rp/|Republikové předsednictvo]] ==
+
 (1) Republikové předsednictvo sestává z předsedy a čtyř místopředsedů.
 
 (2) Republikové předsednictvo
@@ -283,9 +284,8 @@
 (6) Místopředsedové zastupují předsedu ve stanoveném pořadí. Vykonávají funkce na základě pověření předsedou strany, republikovým předsednictvem nebo republikovým výborem.
 </div>
 
-== Čl. 11 Komise ==
-
 <div ustanoveni #p11>
+== Čl. 11 Komise ==
 
 (1) Komise jsou kolegiální orgány strany, sestavené z nejméně tří členů strany a několika příznivců strany. Nejvyšší možný počet členů komise je sedm.
 
@@ -300,9 +300,9 @@
 (6) Komise se řídí statutem, který schvaluje republikový výbor.
 </div>
 
+<div #p12>
 == Čl. 12 Odbory ==
 
-<div #p12>
 (1) Odbory jsou monokratické orgány strany, sestavené z vedoucího a případně několika členů strany a příznivců strany.
 
 (2) Úkolem odborů je plnit specifický úkol na základě usnesení celostátního fóra.
@@ -316,18 +316,18 @@
 </div>
 </div>
 
+<div ustanoveni #p13-1>
 == Čl. 13 Přezkumné orgány ==
 
-<div ustanoveni #p13-1>
 (1) Pokud není uvedeno jinak, fungují kontrolní komise i rozhodčí komise podle [[#p11|čl. 11]]. Přezkumné orgány jednají podle právních principů běžných v demokratickém soudnictví, zejména dbají na to, aby nikomu nestranily. Ostatní orgány jsou při přezkumu povinny poskytnout součinnost.
 </div>
 
-(2) Kontrolní komise je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a předpisů strany. Kontrolní komise
+(2) [[/kk/|Kontrolní komise]] je kontrolním orgánem strany, dohlíží na hospodaření a dodržování obecně závazných právních předpisů a předpisů strany. Kontrolní komise
   * a) vyšetřuje stížnosti na porušení předpisů týkajících se činnosti strany, 
   * b) vyšetřuje kompetenční spory ve straně, které ze zákona nepřísluší jinému orgánu, 
   * c) předkládá důvodné stížnosti spolu s výsledky vyšetřování rozhodčí komisi.
 
-(3) Rozhodčí komise rozhoduje ve stranických sporech mezi fyzickými osobami navzájem, resp. mezi fyzickými osobami a organizačními jednotkami strany nebo orgány. Rozhodčí komise
+(3) [[/rk/|Rozhodčí komise]] rozhoduje ve stranických sporech mezi fyzickými osobami navzájem, resp. mezi fyzickými osobami a organizačními jednotkami strany nebo orgány. Rozhodčí komise
   * a) rozhoduje vždy na návrh kontrolní komise,
   * b) při projednávání vyšetřených stížností vždy vyslechne účastníky řízení,
   * c) vydává předběžná opatření ve věcech, které nesnesou odkladu, a rozhoduje o omezení práv člena za porušení právních předpisů a o jeho vyloučení,
