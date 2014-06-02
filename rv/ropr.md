@@ -5,7 +5,8 @@
 
 ##### §1 Účel
 
-Tento předpis stanovuje požadavky na rozpočet strany a rozpočty krajů, ve kterých se přesouvají a přerozdělují peníze tak, aby hospodaření bylo předvídatelné, průhledné a aby vyloučilo nepřiměřenou závislost krajů na rozhodování orgánů strany.
+Tento předpis stanovuje požadavky na rozpočet strany a rozpočty krajských sdružení, ve kterých se rozdělují peníze tak, aby hospodaření bylo předvídatelné, průhledné a vyloučilo nepřiměřenou závislost krajských sdružení na rozhodování orgánů strany na celostátní úrovni.
+
 
 #####  §2 Základní ustanovení
 
@@ -38,15 +39,12 @@ Tento předpis stanovuje požadavky na rozpočet strany a rozpočty krajů, ve k
 
 (2) Příjmy z pořádání tombol, kulturních, společenských, sportovních, rekreačních, vzdělávacích a politických akcí jsou účelově určené ve prospěch orgánu nebo organizační jednotky, která je uspořádala.
 
-(3) Příjmy ze státních příspěvků jsou veřejnými prostředky, a proto mají zvláštní účelové určení. Veřejné prostředky lze využít výlučně na:
+##### § 3b Účelové určení veřejných peněz 
 
-*  a) platby státu (volební kauce, poplatky za zábory veřejných prostranství, daně, poplatky a výdaje vzniklé kvůli plnění zákonné povinnosti),
+Veřejné peníze jsou určeny jen na politickou činnost Pirátů a činnost s ní související (např. příprava návrhů zákonů, pronájem či koupě míst pro kontakt s veřejností, politické akce a kampaně, zapojení veřejnosti, politické vzdělávání, platby úřadům, provozní výdaje strany, veřejně prospěšné projekty v souladu s politickým programem, mezinárodní akce Pirátského hnutí). 
 
-*  b) službu veřejnosti (příprava legislativních dokumentů, náklady na precedenční soudní spory, okrskové volební komise, odborné brožury a návody pro veřejnost, vzdělávací akce, vývoj a provozování veřejně prospěšných technických systémů apod.),
-
-*  c) mimořádné aktivity s mezinárodním významem (zahraniční spolupráce, mezinárodní konference apod.).
-
-Pokud nejde o výdaje podle předchozích bodů, veřejné prostředky nemohou být zpravidla užity na propagační plakáty a bannery, placenou inzerci, volební kampaň a obvyklé provozní výdaje.
+##### § 3c Zakázené účely použití peněz 
+Peníze je zakázáno použít na komplexní služby mediálních agentur bez podstatného dobrovolnického vkladu členů nebo příznivců, placenou inzerci na Internetu, v tiskovinách a na billboardech, profesionální velkoplošné reklamy, občerstvení na večírcích nebo jiné nepřiměřené občerstvení, spotřebu alkoholu a užívání jiné psychotropní látky. Výjimku může povolit v konkrétním případě dárce, který peníze daroval, jinak celostátní fórum.
 
 ##### §4 Nezávislost přezkumných orgánů
 
@@ -56,23 +54,14 @@ Rozpočty přezkumných orgánů lze snižovat jen do míry snížení výdajů 
 
 ##### §5 Skladba rozpočtu
 
-(1) Rozpočet se skládá z 
-
-*  a) příjmů, 
-
-*  b) výdajů a
-
-*  c) rezervy předsednictva.
-
-(2) **Subjekty a předkladatelé**. Každý rozpočtový rok vytváří 
-
-*  a) rozpočet strany předsednictvo strany a 
-
-*  b) rozpočty organizačních jednotek jejich krajská předsednictva. 
+Rozpočet se skládá z 
+*   a) příjmových rozpočtových položek,
+*   b) výdajových rozpočtových položek, 
+*   c) rozpočtové položky se saldem rozpočtu.
 
 ##### §6 Návrh rozpočtu
 
-(1) Návrh rozpočtu se vypracovává podle zásad tohoto předpisu (§7 b StFO).
+(1) Návrh rozpočtu předkládá podle zásad tohoto předpisu příslušné předsednictvo.
 
 (2) Návrh rozpočtu musí kromě subjektu hospodaření a jmen předkladatelů určitě
 
@@ -92,7 +81,8 @@ Rozpočty přezkumných orgánů lze snižovat jen do míry snížení výdajů 
 
 *  f) usnesení o schválení návrhu rozpočtu subjektem.
 
-(3) Finanční odbor předložený návrh registruje nebo vrátí s výpisem nedostatků. Návrh účinkuje od registrace. Připouští se usnesení subjektu o zmocnění předkladatelů k nápravě nedostatků vytčených finančním odborem.
+== § 6a Registrace rozpočtu == 
+Finanční odbor předložený návrh registruje nebo vrátí s výpisem nedostatků. Návrh účinkuje od registrace. Připouští se usnesení subjektu o zmocnění předkladatelů k nápravě nedostatků vytčených finančním odborem.
 
 ##### §7 Rozpočtové dodatky
 

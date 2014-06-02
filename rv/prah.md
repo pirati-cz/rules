@@ -77,13 +77,37 @@ Pravidla hospodaření stanovují způsob, kterými organizační složky strany
 
 (3) Výjimku z tohoto paragrafu může pro jednotlivý případ schválit republikový výbor.
 
-##### §6 Příslušnost
+##### § 5a Účel věci 
 
-(1) Hospodaření s určitým majetkem přísluší té organizační složce, která ho potřebuje k prospěchu strany, dosažení cílů strany nebo jiných úkolů v rámci své působnosti. Příslušná organizační složka s majetkem rovněž nakládá, a to způsoby a za podmínek podle tohoto předpisu.
+(1) Věc může být určena pro některý účel, případně také k užívání určitým orgánem strany. Věc je dovoleno užít jinak, jen pokud to není na újmu určenému účelu. Věc s určeným účelem je zakázáno zcizit za jiným účelem.
 
-(2) **Hodnota** majetku znamená hodnota majetku (peněz, věci nebo práva) vyjádřená v penězích, kterou má majetek běžně na trhu v době transakce, přičemž se sdružují související výdaje v jednu hodnotu (např. úhrn za celý rok); při dvoustranném plnění se za hodnotu bere vždy hodnota vyššího plnění.
+(2) Účelové určení vzniká, pokud tak stanoví předpis[^ropr] nebo právní jednání, které stranu zavazuje.[^zavazek]
 
-(3) Majetek musí být využíván účelně a hospodárně k plnění cílů strany a k výkonu stanovených činností; jiným způsobem lze majetek použít nebo s ním naložit pouze za podmínky, že to republikový výbor v jednotlivém případě schválí. Organizační složka si počíná tak, aby svým jednáním majetek nepoškozovala a neodůvodněně nesnižovala jeho rozsah a hodnotu anebo výnos z tohoto majetku.
+(3) Pokud pro trvalou překážku nelze věc použít k určenému účelu, rozhodne její správce, že se použije k podobnému účelu, nebo účelové určení zruší a použije ji k plnění svých úkolů.
+
+[^ropr]: Rozpočtová pravidla.
+[^zavazek]: Účelově určený dar, závěť.
+
+##### § 6 Správa věci
+
+Věc spravuje[^sprava-veci] organizační složka, která ji za stranu obdržela, případně která má plnit úkoly, k nimž je věci zapotřebí. 
+
+[^sprava-veci]: § 1400 a násl. občanského zákoníku.
+
+
+##### § 6b Záměr
+
+(1) **Záměr** je souhrn všech dílčích závazků, které jsou potřebné ke splnění určitého úkolu. 
+
+(2) **Hodnotou záměru** je součet hodnot[^hodnota] všech dílčích závazků. Hodnotu záměru je třeba vždy odhadnout před závazkem. Při určování hodnoty záměru se přihlíží k souhrnu plnění za období jednoho roku, jde-li o závazek k opakovanému plnění na neurčitou dobu (nájem, závislá práce a jiné).
+
+(3) Zakazuje se záměr rozdělit na dílčí části tak, aby tím došlo ke snížení jeho hodnoty. Stane-li se tak, k rozdělení se nepřihlíží.
+
+[^hodnota]: § 492 zákona č. 89/2012 Sb., občanský zákoník. 
+
+
+##### Péče řádného hospodáře 
+(3) Majetek musí být využíván účelně a hospodárně k plnění cílů strany a k výkonu stanovených činností. Jiným způsobem lze majetek použít nebo s ním naložit pouze za podmínky, že to republikový výbor v jednotlivém případě schválí. Organizační složka si počíná tak, aby svým jednáním majetek nepoškozovala a neodůvodněně nesnižovala jeho rozsah a hodnotu anebo výnos z tohoto majetku.
 
 ##### §7 Účetní doklady
 
