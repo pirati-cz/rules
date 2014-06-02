@@ -6,9 +6,11 @@ Cílem jednání celostátního fóra je rozhodovat v jeho působnosti
 
 *  a) usnesením,[^odvolani] které vybírá z předložených návrhů usnesení, nebo
 
-*  b) volbou,XXXZAVORKAZACITNapř. čl. 8 odst. 5 písm. a), b), d) stanov o volbě.XXXZAVORKAUZAVRIT ve které vybírá z navržených kandidátů.
+*  b) volbou,[^volba] ve které vybírá z navržených kandidátů.
 
 [^odvolani]: Např. čl. 8 odst. 5 písm. a), b), c), d) stanov o odvolání, písm. e), f), g), h), odst. 6 stanov.
+
+[^volba]: Např. čl. 8 odst. 5 písm. a), b), d) stanov o volbě.
 
 #####  § 2 Předsedající
 
@@ -178,13 +180,15 @@ Schválené usnesení nabývá účinnosti okamžikem, který je v něm uveden, 
 
 Jednání zahájí předsedající jen tehdy, pokud 
 
-*  a) je třeba zvolit členy orgánu strany voleného celostátním fórem, aby byl řádně obsazen,XXXZAVORKAZACITNapř. čl. 9 odst. 2, čl. 11 odst. 1 stanov.XXXZAVORKAUZAVRIT nebo lze-li takovou potřebu v následujícím měsíci očekávat,
+*  a) je třeba zvolit členy orgánu strany voleného celostátním fórem, aby byl řádně obsazen,[^radne-obsazeni] nebo lze-li takovou potřebu v následujícím měsíci očekávat,
 
 *  b) orgán strany volený celostátním fórem požádá o doplňující volbu ke zvolení dalších členů tohoto orgánu, pokud je to možné,
 
 *  c) skupina členů požádá o doplňující volbu ke zvolení dalších členů některého orgánu strany, pokud je to možné,
 
 *  d) je třeba v primárních volbách zvolit kandidáty strany do celostátních voleb, kde si celostátní fórum volbu vyhradilo (§ 45).
+
+[^radne-obsazeni]: Např. čl. 9 odst. 2, čl. 11 odst. 1 stanov.
 
 ##### § 20 Rozprava
 
@@ -315,11 +319,11 @@ Jednání na Internetu může předsedat též vedoucí administrativního odbor
 
 Průběh jednání zajišťuje informační systém strany ve správě administrativního odboru. U hlasování se uvede odkaz na každé závěrečné slovo. Volební komise má při hlasování na Internetu právo požadovat přístup k hlasovacímu stroji a k informacím o nastavení a může ověřovat z vlastní iniciativy nebo na základě stížnosti jejich správnost. Doba trvání hlasování se stanoví následovně:
 
- | Typ hlasování                                                   | doba                                        | 
- | ---------------                                                   | ----                                        | 
- | Všeobecná shoda na návrhu postupu                              | 24 hodin                                    | 
- | Hlasování o návrhu postupu (mimo rozhodující hlasování) | 24 hodin                                    | 
- | Rozhodující hlasování                                         | od pátku 10 hodin do pondělí 22 hodin | 
+| Typ hlasování                                                   | doba                                        | 
+| ---------------                                                   | ----                                        | 
+| Všeobecná shoda na návrhu postupu                              | 24 hodin                                    | 
+| Hlasování o návrhu postupu (mimo rozhodující hlasování) | 24 hodin                                    | 
+| Rozhodující hlasování                                         | od pátku 10 hodin do pondělí 22 hodin | 
 
 ### Zasedání
 
