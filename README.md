@@ -15,8 +15,8 @@ připravované změny předpisů schvalované příslušnými orgány.
 Podrobnosti o programu ``git`` se dočtete např. 
 v [tutoriálu][git-guide].
 
-[daring-fireball] : http://daringfireball.net/projects/markdown/
-[git-guide] : http://rogerdudler.github.io/git-guide/
+[daring-fireball]: http://daringfireball.net/projects/markdown/
+[git-guide]: http://rogerdudler.github.io/git-guide/
 
 Nebojte se sami experimentovat ve větvích, vytvořit si fork tohoto 
 projektu a požádat o začlenění vašich změn. I předpisy mohou být zábava!
