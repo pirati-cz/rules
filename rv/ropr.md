@@ -8,21 +8,9 @@
 Tento předpis stanovuje požadavky na rozpočet strany a rozpočty krajských sdružení, ve kterých se rozdělují peníze tak, aby hospodaření bylo předvídatelné, průhledné a vyloučilo nepřiměřenou závislost krajských sdružení na rozhodování orgánů strany na celostátní úrovni.
 
 
-#####  §2 Základní ustanovení
-
-(1) Jednotným vlastníkem všech peněz ve straně je Česká pirátská strana. 
-
-(2) Rozpočtový rok se shoduje s rokem kalendářním.
-
-(3) Na peněžní prostředky z rozpočtů není právní nárok.
-
 ##### §3 Účelové určení
 
-(1) **Určené peníze** znamenají peněžité příjmy České pirátské strany, u nichž je určen účel, od něhož se nelze odchýlit (např. smluvně, darem, závětí, variabilním symbolem atd. nebo podle tohoto předpisu) a to buď věcně nebo ve prospěch organizační složky. Věcně určený účel provede příslušná organizační složka. 
-
-(2) **Volné peníze** znamenají peněžité příjmy České pirátské strany, které nejsou označeny za určené peníze. Mezi volné peníze patří i poměrná část členského příspěvku.
-
-(3) Hospodaření musí respektovat účelové určení. Určené peníze jsou pro tento účel blokovány. 
+**Volné peníze** jsou zajištěné nebo důvodně očekáané ???? Vázat na § 7 odst. 2 PraH
 
 ##### §3a Účelové určení některých příjmů
 
@@ -44,7 +32,7 @@ Tento předpis stanovuje požadavky na rozpočet strany a rozpočty krajských s
 Veřejné peníze jsou určeny jen na politickou činnost Pirátů a činnost s ní související (např. příprava návrhů zákonů, pronájem či koupě míst pro kontakt s veřejností, politické akce a kampaně, zapojení veřejnosti, politické vzdělávání, platby úřadům, provozní výdaje strany, veřejně prospěšné projekty v souladu s politickým programem, mezinárodní akce Pirátského hnutí). 
 
 ##### § 3c Zakázené účely použití peněz 
-Peníze je zakázáno použít na komplexní služby mediálních agentur bez podstatného dobrovolnického vkladu členů nebo příznivců, placenou inzerci na Internetu, v tiskovinách a na billboardech, profesionální velkoplošné reklamy, občerstvení na večírcích nebo jiné nepřiměřené občerstvení, spotřebu alkoholu a užívání jiné psychotropní látky. Výjimku může povolit v konkrétním případě dárce, který peníze daroval, jinak celostátní fórum.
+
 
 ##### §4 Nezávislost přezkumných orgánů
 
