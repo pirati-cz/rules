@@ -3,11 +3,11 @@
 
 ## Obecná ustanovení
 
-##### §1 Účel předpisu
+##### § 1 Účel předpisu
 
 Pravidla hospodaření stanoví způsob, kterým orgány strany odpovědně, průhledně a hospodárně nakládají s majetkem strany.
 
-##### §2 Dobrovolnictví
+##### § 2 Dobrovolnictví
 
 Organizační složky zajišťují plnění svých úkolů přednostně dobrovolníky. Nelze-li důležitý úkol v požadované kvalitě zajistit pomocí dobrovolníků, organizační složka ho zajistí aspoň částečně dobrovolnicky, jinak za přiměřenou odměnu za obvyklých obchodních podmínek.
 
@@ -27,7 +27,7 @@ Zakazuje se
 * e) využívat zbytečně nákladné způsoby přepravy jako je taxislužba nebo letecká přeprava, ledaže to schválený úkol ve výjimečném případě vyžaduje, nebo využívat jiné zbytečně nákladné alternativy. 
 
 
-##### §6 Výběrová řízení
+##### § 6 Výběrová řízení
 
 Na záměr zahrnující zcizení větší hodnoty musí orgán strany vypsat veřejné výběrové řízení ve dvou fázích:
 
