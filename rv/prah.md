@@ -115,7 +115,7 @@ Hospodař je povinen každý záměr řádně doložit doklady podle jiného pr�
 
 (1) Pokud není stanoveno jinak, používá se hlavní účet strany. Ostatní účty se vedou u stejné banky jako hlavní účet strany. Vedení bankovního účtu se volí tak, aby straně nemohl způsobit nepředvídatelné výdaje s jeho vedením; práva a okruh osob disponujících s účtem se volí tak, aby omezovaly nebezpečí zneužití.
 
-(2) Republikové předsednictvo rozhodnout o zřízení zvláštního bankovního účtu. Zvláštní účet musí být vymezen věcně, nikoliv územně (například spořící účet, volební účet, nikoliv účty krajských sdružení).
+(2) Republikové předsednictvo může rozhodnout o zřízení zvláštního bankovního účtu. Zvláštní účet musí být vymezen věcně, nikoliv územně (například spořící účet, volební účet, nikoliv účty krajských sdružení).
 
 ##### § 16 Žádosti o proplacení
 (1) Finanční odbor převádí peníze z bankovního účtu na žádost jejich hospodáře o proplacení.
