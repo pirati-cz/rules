@@ -37,7 +37,7 @@ Na záměr zahrnující zcizení větší hodnoty musí orgán strany vypsat ve�
 
 ##### § 7 Účel věci 
 
-(1) Věc může být závazně určena pro některý účel, případně také k užívání určitým orgánem strany. Věc s určeným účelem je zakázáno zcizit za jiným účelem.
+(1) Věc může být závazně určena pro některý účel, případně také k užívání určitou organizační složkou strany. Věc s určeným účelem je zakázáno zcizit za jiným účelem.
 
 (2) Účelové určení vzniká, pokud tak stanoví předpis[^ropr] nebo v souladu s ním právní jednání, které stranu zavazuje.[^zavazek] Účel peněz v rozpočtové položce se stanoví podle rozpočtu schváleného v souladu s jiným předpisem.
 
@@ -94,7 +94,7 @@ Na webu strany se zveřejňují
 *  a) faktury, objednávky a doklady na výdaje, 
 *  b) výroční finanční zprávy, 
 *  c) účetní výkazy podle zákona o účetnictví, 
-*  d) rozpočty a jejich plnění,
+*  d) rozpočty a jejich plnění včetně žádostí o proplacení,
 *  e) veškeré písemné smlouvy, 
 *  f) soupis věcí, které spravuje každá organizační složka, s jejich hodnotou a místem výskytu,
 *  g) seznam transparentních bankovních účtů a jiných finančních účtů. 
@@ -120,14 +120,18 @@ Hospodař je povinen každý záměr řádně doložit doklady podle jiného pr�
 ##### § 16 Žádosti o proplacení
 (1) Finanční odbor převádí peníze z bankovního účtu na žádost jejich hospodáře o proplacení.
 
+(2) Žádost musí obsahovat informaci o druhu výdaje podle zákonného třídění,[^trideni] jakož i jiné třídění stanovené finančním odborem.
+
 (2) Před vyplácením rozhodnutím o žádosti finanční odbor zkoumá,
 
 *  a) zda byl nárok schválen hospodářem, případně odsouhlasen dalšími orgány,
-*  b) zda má být žádost proplacena z registrované výdajové rozpočtové položky,
+*  b) zda byla registrována výdajová rozpočtová položka, z níž má být žádost proplacena,
 *  c) zda byl nárok hodnověrně doložen a odpovídá těmto pravidlům,
 *  d) zda je na účtu dostatek prostředků pro proplacení žádosti.
 
 (3) Finanční odbor zamítne žádost, která je v rozporu s pravidly hospodaření. Jinak finanční odbor žádosti vyhoví a žádost proplatí zpětně nebo dopředu na účet příjemce anebo zprostředkovatele bez zbytečného odkladu. 
+
+[^trideni]: § 18 odst. 1 písm. c) zákona č. 424/1991 Sb., o politických stranách a politických hnutích, ve znění pozdějších předpisů.
 
 ##### § 17 Zprostředkování
 
@@ -147,6 +151,10 @@ Není-li předmět autorského práva zaměstnaneckým dílem,[^zam-dilo] a čle
 [^zam-dilo]: § 58 odst. 10 zákona č. 121/2000 Sb., autorský zákon
 
 ## Závěrečná ustanovení
+
+##### §20 Obchodní společnost
+
+Česká pirátská strana může založit  obchodní společnost  nebo družstvo nebo se účastnit jako společník nebo člen na již založené obchodní  společnosti  nebo  družstvu  za podmínek stanovených zákonem (§17(3) ZPS), pokud s tím předem vysloví republikový výbor souhlas a předem upraví vztahy s touto obchodní společností nebo družstvem. 
 
 ##### § 21 Sankce zastavení peněz
 
