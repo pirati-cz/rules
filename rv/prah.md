@@ -32,10 +32,10 @@ Hospodář a ten, kdo se účastní rozhodnutí o hospodaření strany, má post
 Zakazuje se
 
 a) hospodařit s věcí v majetku strany v rozporu s politickým programem strany,
-b) kupovat komplexní služby mediálních agentur bez podstatného dobrovolnického vkladu členů nebo příznivců, placenou inzerci na Internetu, v tiskovinách a na billboardech, profesionální velkoplošné reklamy přesahující obvyklé plakáty, občerstvení na večírcích nebo jiné nepřiměřené občerstvení, alkohol a jiné psychotropní látky, ledaže strana cenu koupě uhradí z prostředků na to určených dárcem, jinak celostátním fórem,
+b) kupovat komplexní služby mediálních agentur bez podstatného vkladu dobrovolníků, reklamu větší hodnoty, hradit občerstvení na večírcích nebo jiné nepřiměřené občerstvení, alkohol a jiné psychotropní látky, ledaže strana cenu koupě uhradí z prostředků na to určených dárcem, jinak celostátním fórem,
 c) slibovat třetí osobě za její protiplnění politický prospěch, kterým není naplňována politika strany,
 d) právně jednat jménem strany ve vlastní věci nebo jiném případu střetu zájmu strany s osobním zájmem, aniž by byl jednající v dané věci nahrazen,
-e) využívat zbytečně nákladné způsoby přepravy jako je taxislužba nebo letecká přeprava, ledaže to schválený úkol ve výjimečném případě vyžaduje, nebo využívat jiné zbytečně nákladné alternativy. 
+e) vynakládat prostředky na zjevně zbytečně nákladné alternativy (např. na taxislužbu nebo leteckou přepravu, jen pokud to úkol vyžaduje). 
 
 
 ##### § 6 Výběrová řízení
@@ -113,7 +113,7 @@ h) seznam jiných finančních účtů s přehledem transakcí na nich.
 
 ##### § 13 Účetní doklady
 
-Hospodař je povinen každý záměr řádně doložit doklady požadovanými zákonem[^zou] ve stanovené lhůtě. Strana není zavázána uhradit náklady schváleného záměru, pokud tyto doklady neobdrží ani v dodatečně určené lhůtě. 
+Hospodář je povinen každý záměr řádně doložit doklady požadovanými zákonem[^zou] ve stanovené lhůtě. Strana není zavázána uhradit náklady schváleného záměru, pokud tyto doklady neobdrží ani v dodatečně určené lhůtě. 
 
 [^zou]: Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.
 
@@ -131,7 +131,7 @@ Hospodař je povinen každý záměr řádně doložit doklady požadovanými z�
 
 (1) Pokud není stanoveno jinak, používá se hlavní účet strany. Ostatní účty se vedou u stejné banky jako hlavní účet strany. Vedení bankovního účtu se volí tak, aby straně nemohl způsobit nepředvídatelné výdaje s jeho vedením; práva a okruh osob disponujících s účtem se volí tak, aby omezovaly nebezpečí zneužití.
 
-(2) Republikové předsednictvo rozhodnout o zřízení zvláštního bankovního účtu. Zvláštní účet musí být vymezen věcně, nikoliv územně (například spořící účet, volební účet, nikoliv účty krajských sdružení).
+(2) Republikové předsednictvo může rozhodnout o zřízení zvláštního bankovního účtu. Zvláštní účet musí být vymezen věcně, nikoliv územně (například spořící účet, volební účet, nikoliv účty krajských sdružení).
 
 ##### § 16 Žádosti o proplacení
 (1) Finanční odbor převádí peníze z bankovního účtu na žádost o proplacení podanou jejich hospodářem.

@@ -127,7 +127,7 @@ d) informace o financování salda rozpočtu.
 
 ##### § 11 Rezerva předsednictva
 
-(1) **Rezerva předsednictva** je výdajovou rozpočtovou položkou, ze které republikové předsednictvo platí rozpočtově nezajištěné výdaje v průběhu rozpočtového období. 
+(1) **Rezerva předsednictva** je výdajovou rozpočtovou položkou, ze které předsednictvo platí rozpočtově nezajištěné výdaje v průběhu rozpočtového období. 
 
 (2) Rezerva předsednictva nesmí přesahovat pětinu celkových příjmů ani výdajů rozpočtu.
 
@@ -175,11 +175,11 @@ V **rozpočtovém provizoriu** se v rozpočtovém období hospodaří, pokud byl
 
 ##### § 18 Pracovní rozpočet
 
-V rámci schváleného rozpočtu předsednictvo může schválit pracovní rozpočet volební kampaně, orientační rozpočet organizační složky nebo jiný  pracovní rozpočet, podle předsednictvo ukládá za úkol hospodařit. 
+V rámci schváleného rozpočtu předsednictvo může schválit pracovní rozpočet volební kampaně, orientační rozpočet organizační složky nebo jiný  pracovní rozpočet, podle něhož předsednictvo ukládá za úkol hospodařit. 
 
 ##### § 19 Rozpočtová kontrola
 
-Příslušné předsednictvo zajistí, aby na úrovni organizační jednotky, která sestavuje rozpočet, byla zřízena kontrolní komise.[^kk] Dokud není kontrolní komise zřízena, hospodaří se v rozpočtovém provizoriu (§ 17). Rozpočtovou kontrolu upravují jiné předpisy.[^kontrola]
+Příslušné předsednictvo zajistí, aby na úrovni krajského sdružení byla zřízena a obsazena kontrolní komise nebo kontrolní odbor.[^kk] Dokud není kontrolní komise zřízena, hospodaří se v rozpočtovém provizoriu (§ 17). Rozpočtovou kontrolu upravují jiné předpisy.[^kontrola]
 
 [^kk]: Čl. 7 odst. 4 písm. c) stanov.
 [^kontrola]: Pravidla hospodaření, rozhodčí řád. 
@@ -197,7 +197,7 @@ Příslušné předsednictvo zajistí, aby na úrovni organizační jednotky, kt
     c) určuje základní ukazatele pro rozpočty přijaté ve výhledové době včetně odhadovaných příjmů a výdajů rozpočtu a výdajů na podřízené rozpočty,
     d) stanoví, které ukazatele jsou informativní a které jsou závazné. 
 
-(3) Návrh rozpočtového výhledu může předložit až republikové předsednictvo zvolené po volbách.[^nove-predsednictvo] Dále se při schvalování rozpočtového výhledu postupuje přiměřeně podle ustanovení o rozpočtu. Změny rozpočtového výhledu lze však provést jen dodatkem.
+(3) Návrh rozpočtového výhledu strany může předložit až republikové předsednictvo zvolené po volbách.[^nove-predsednictvo] Dále se při schvalování rozpočtového výhledu postupuje přiměřeně podle ustanovení o rozpočtu. Změny rozpočtového výhledu lze však provést jen dodatkem.
 
 [^nove-predsednictvo]:  Čl. 6 odst. 9 stanov.
 
