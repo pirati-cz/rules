@@ -140,9 +140,9 @@ Hospodář je povinen každý záměr řádně doložit doklady požadovanými z
 
 (3) Před vyplácením rozhodnutím o žádosti finanční odbor zkoumá,
 
-    a) zda byl nárok schválen hospodářem, případně odsouhlasen dalšími orgány,
-    b) zda byla registrována výdajová rozpočtová položka, z níž má být žádost proplacena,
-    c) zda byl nárok hodnověrně doložen a odpovídá těmto pravidlům,
+    a) zda byl výdaj schválen hospodářem, případně odsouhlasen v požadované výši dalšími orgány,
+    b) zda byla registrována výdajová rozpočtová položka, z níž má být výdaj proplacen, a zda je v ní dostatek peněz pro proplacení,
+    c) zda byl výdaj hodnověrně doložen, pokud je proplácen zpětně, a odpovídá těmto pravidlům,
     d) zda je na účtu dostatek prostředků pro proplacení žádosti.
 
 (4) Finanční odbor zamítne žádost, která je v rozporu s pravidly hospodaření. Jinak finanční odbor žádosti vyhoví a žádost proplatí zpětně nebo dopředu na účet příjemce anebo zprostředkovatele bez zbytečného odkladu. 
