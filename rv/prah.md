@@ -93,7 +93,7 @@ c) republikové předsednictvo se záměrem předem souhlasilo a uzavřelo s dá
 ##### § 11 Zcizení
 
 (1) Pokud má organizační složka zcizit hodnotu nikoliv nepatrnou, musí se záměrem předem souhlasit 
-    a) u orgánu krajského sdružení jeho krajské fórum, 
+    a) u orgánu oblastního sdružení jeho oblastní fórum, 
     b) u orgánů strany na celostátní úrovni republikové předsednictvo.
 
 (2) Pokud má organizační složka zcizit hodnotu větší, musí se záměrem předem souhlasit republikový výbor.
