@@ -127,7 +127,7 @@ d) informace o financování salda rozpočtu.
 
 ##### § 11 Rezerva předsednictva
 
-(1) **Rezerva předsednictva** je výdajovou rozpočtovou položkou, ze které předsednictvo platí rozpočtově nezajištěné výdaje v průběhu rozpočtového období. 
+(1) **Rezerva předsednictva** je výdajovou rozpočtovou kapitolou, ze které předsednictvo platí rozpočtově nezajištěné výdaje v průběhu rozpočtového období. 
 
 (2) Rezerva předsednictva nesmí přesahovat pětinu celkových příjmů ani výdajů rozpočtu.
 
