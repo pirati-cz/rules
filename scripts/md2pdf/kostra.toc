@@ -1,0 +1,29 @@
+\select@language {czech}
+\contentsline {section}{Pravidla hospodaření}{2}{Item.4}
+\contentsline {subsection}{Obecná ustanovení}{2}{section*.1}
+\contentsline {subparagraph}{§ 1 Účel předpisu}{2}{section*.1}
+\contentsline {subparagraph}{§ 2 Dobrovolnictví}{2}{section*.2}
+\contentsline {subparagraph}{§ 3 Hospodář}{2}{section*.2}
+\contentsline {subparagraph}{§ 4 Péče řádného hospodáře}{3}{section*.2}
+\contentsline {subparagraph}{§ 5 Zakázaná právní jednání}{3}{section*.2}
+\contentsline {subparagraph}{§ 6 Výběrová řízení}{3}{Item.9}
+\contentsline {subparagraph}{§ 7 Účel věci}{4}{Item.11}
+\contentsline {subparagraph}{§ 8 Správa věci}{4}{Item.14}
+\contentsline {subparagraph}{§ 9 Záměr}{4}{Item.17}
+\contentsline {subparagraph}{§ 10 Nabytí věci}{5}{Item.20}
+\contentsline {subparagraph}{§ 11 Zcizení}{5}{Item.23}
+\contentsline {subparagraph}{§ 12 Průhlednost hospodaření}{5}{Item.27}
+\contentsline {subparagraph}{§ 13 Účetní doklady}{6}{Item.35}
+\contentsline {subsection}{Hospodaření s~penězi}{6}{Item.35}
+\contentsline {subparagraph}{§ 14 Bankovní účty}{6}{section*.3}
+\contentsline {subparagraph}{§ 15 Struktura bankovních účtů}{6}{Item.38}
+\contentsline {subparagraph}{§ 16 Žádosti o~proplacení}{7}{Item.40}
+\contentsline {subparagraph}{§ 17 Zprostředkování}{7}{Item.49}
+\contentsline {subsection}{Hospodaření s~jinými věcmi}{7}{Item.49}
+\contentsline {subparagraph}{§ 18 Předání hmotných věcí}{7}{section*.4}
+\contentsline {subparagraph}{§ 19 Licence}{8}{section*.4}
+\contentsline {subsection}{Závěrečná ustanovení}{8}{section*.4}
+\contentsline {subparagraph}{§ 20 Obchodní společnost}{8}{section*.5}
+\contentsline {subparagraph}{§ 21 Hospodaření s~vkladem}{8}{section*.5}
+\contentsline {subparagraph}{§ 22 Sankce zastavení peněz}{8}{section*.6}
+\contentsline {subparagraph}{§ 23 Prováděcí předpisy}{9}{section*.6}

@@ -1,0 +1,53 @@
+\usepackage[margin=1.5cm,footskip=1cm,bottom=2cm,top=1.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{enumitem}
+% nastavení fontů
+\setmainfont[
+    Path = files/,
+    Ligatures=TeX,
+    UprightFont = *-Regular,
+    BoldFont=*-Bold.ttf,
+    ItalicFont=*-Italic.ttf,
+    BoldItalicFont=*-BoldItalic]{LiberationSans}
+\setmonofont[
+    Path = files/,
+    Ligatures=TeX,
+    UprightFont = *-Regular,
+    BoldFont=*-Bold.ttf,
+    ItalicFont=*-Italic.ttf,
+    BoldItalicFont=*-BoldItalic]{LiberationSans}
+
+% Pozadí stránky
+%\usepackage{wallpaper}
+%\usepackage{fancyhdr}
+
+\pagestyle{plain}
+
+
+% Titulek
+
+\renewcommand{\title}[1]{
+\vspace*{0.3cm}
+\begin{center}
+{\LARGE #1}
+
+\medskip
+\includegraphics[width=3cm]{files/logotyp}
+\end{center}
+\vspace*{0.3cm}
+\hypersetup{
+    pdftitle={#1},
+    pdfauthor={Česká pirátská strana},
+    hidelinks=true,
+    pdfborder={0 0 0}
+}
+}
+
+
+% Číslování nadpisů
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{6}
+\setlist{noitemsep}
+
+%%%%%%%%%%% DEFINOVÁNÍ STYLŮ %%%%%%%%%%%%%%%%%
+\renewcommand{\labelitemi}{ }
