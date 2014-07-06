@@ -57,7 +57,7 @@ h) zatížit věc v majetku strany věcným břemenem v rozsahu větším, než 
 
 ##### § 6 Výběrová řízení
 
-Na záměr zahrnující zcizení hodnoty nad 50 000 Kč musí orgán strany vypsat veřejné výběrové řízení ve dvou fázích:
+Na záměr s celkovými náklady nad 50 000 Kč musí orgán strany vypsat veřejné výběrové řízení ve dvou fázích:
 
 1. V **zadávací fázi** zveřejní hospodář orgánu strany zadání, které obsahuje požadavky na nabídky a způsob výběru vítěze takovým způsobem, aby kritériím hodnocení mohli uchazeči přizpůsobit své nabídky. Zpravidla také osloví aspoň tři dodavatele. Proti zadání lze podat podnět k nápravě nadřízenému orgánu, ledaže výběrové řízení probíhá za standardních podmínek, které nadřízený orgán schválil.
 
@@ -100,24 +100,25 @@ c) republikové předsednictvo se záměrem předem souhlasilo a uzavřelo s dá
 
 ##### § 10 Záměr a jeho celkové náklady
 
-(1) **Záměr** je souhrn závazků ze stejného nebo úzce souvisejícího důvodu (např. koupě nebo prodej věci s příslušenstvím, objednávka série plakátů a vylepení, koupě raznice a matrice na odznaky, počítač s monitorem a jeho příslušenství). Za záměr se považuje i opomenutí, které má za následek promlčení dluhu nebo jiný majetkový dopad.
+(1) **Záměr** je souhrn závazků v jedné rozpočtové jednotce[^rozpoctova-jednotka], které spolu věcně a časově úzce souvisí (např. koupě nebo prodej věci s příslušenstvím, objednávka série plakátů a vylepení, koupě raznice a matrice na odznaky, počítač s monitorem a jeho příslušenství). Za záměr se považuje i opomenutí, které má za následek promlčení dluhu nebo jiné náklady.
 
-(2) **Celkové náklady záměru** jsou vyjádřeny peněžitou hodnotou[^hodnota] nákladů, které lze důvodně očekávat v souvislosti se záměrem. Celkové náklady záměru se posuzují nezávisle na počtu účetních případů, do kterých byl záměr rozdělen. V případě výpůjčky, pronájmu, pachtu či věcného břemena k věci strany zahrnují náklady záměru též tržní odměnu, která je za užívání obvyklá. 
+(2) **Celkové náklady záměru** jsou vyjádřeny peněžitou hodnotou[^hodnota] nákladů, které lze v rozpočtové jednotce důvodně očekávat v souvislosti se záměrem. Celkové náklady záměru se posuzují nezávisle na počtu účetních případů, do kterých byl záměr rozdělen. V případě výpůjčky, pronájmu, pachtu či věcného břemena k věci strany zahrnují náklady záměru též tržní odměnu, která je za užívání obvyklá. 
 
 [^hodnota]: § 492 zákona č. 89/2012 Sb., občanský zákoník. 
+[^rozpoctova-jednotka]: § 6 odst. 3 rozpočtových pravidel.
 
 ##### § 11 Schvalování záměru
 
 (1) Ještě před objednávkou, uzavřením smlouvy, veřejným vyhlášením výběrového řízení nebo jiným vznikem závazku musí hospodář
 
-    a) odhadnout náklady záměru,
-    b) zajistit potřebné prostředky na záměr v rozpočtu,
+    a) odhadnout celkové náklady záměru,
+    b) zajistit v rozpočtu potřebné prostředky na záměr (z výdajové rozpočtové položky spravované jím samotným nebo jiným hospodářem s jeho souhlasem),
     c) opatřit souhlas orgánů strany, pokud je potřeba.
 
-(2) Se záměrem, jehož náklady mají přesáhnout 
+(2) Se záměrem rozpočtové jednotky, jehož celkové náklady mají přesáhnout 
 
     a) 5 000 Kč, musí předem souhlasit příslušné předsednictvo,
-    b) 50 000 Kč, musí předem souhlasit schvalující orgán.[^schvalujici-organ]
+    b) 50 000 Kč, musí předem souhlasit příslušný schvalující orgán.[^schvalujici-organ]
 
 (3) Souhlas se záměrem se vyslovuje usnesením, které obsahuje dostupné informace o záměru a výši celkových nákladů záměrů. Udělený souhlas se vztahuje na všechna právní jednání, která byla zahrnuta do celkových nákladů záměru. Nad tuto výši jde o nový záměr, který může vyžadovat samostatný souhlas. 
 
