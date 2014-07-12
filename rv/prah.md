@@ -113,14 +113,18 @@ c) republikové předsednictvo se záměrem předem souhlasilo a uzavřelo s dá
 
     a) odhadnout celkové náklady záměru,
     b) zajistit v rozpočtu potřebné prostředky na záměr (z výdajové rozpočtové položky spravované jím samotným nebo jiným hospodářem s jeho souhlasem),
-    c) opatřit souhlas orgánů strany, pokud je potřeba.
+    c) zajistit udělení a vyhlášení souhlasů jiných orgánů strany, pokud jsou potřeba.
 
-(2) Se záměrem rozpočtové jednotky, jehož celkové náklady mají přesáhnout 
+(2) Záměr rozpočtové jednotky, jehož celkové náklady mají přesáhnout 
 
-    a) 5 000 Kč, musí předem souhlasit příslušné předsednictvo,
-    b) 50 000 Kč, musí předem souhlasit příslušný schvalující orgán.[^schvalujici-organ]
+    a) prahovou hodnotu 5 000 Kč, je podmíněn souhlasem příslušného předsednictva,
+    b) prahovou hodnotu 50 000 Kč, je podmíněn souhlasem příslušného schvalujícího orgánu.[^schvalujici-organ]
 
-(3) Souhlas se záměrem se vyslovuje usnesením, které obsahuje dostupné informace o záměru a výši celkových nákladů záměrů. Udělený souhlas se vztahuje na všechna právní jednání, která byla zahrnuta do celkových nákladů záměru. Nad tuto výši jde o nový záměr, který může vyžadovat samostatný souhlas. 
+(3) Souhlas se záměrem se vyslovuje usnesením, které obsahuje dostupné informace o záměru a výši odsouhlasených nákladů záměrů. Do této výše jsou odsouhlasena všechna právní jednání. 
+
+(4) Dodatečné rozšíření záměru je podmíněno souhlasem orgánu strany, jen pokud jím neodsouhlasené náklady na tento záměr přesáhnou prahovou hodnotu pro souhlas (odst. 2).
+
+Výdaje nad odsouhlasenou výši tuto výši jde o nový záměr, který může vyžadovat samostatný souhlas. 
 
 [^schvalujici-organ]: § 6 odst. 3 rozpočtových pravidel.
 
