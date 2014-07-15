@@ -6,7 +6,8 @@ Republikový výbor se usnesl takto:
 2. Dosavadní pravidla hospodaření se **ruší**.
 3. Nevyřízené žádosti o proplacení se posoudí podle nových pravidel hospodaření. 
 4. Ve statutu pro odbory a komise se na začátek vkládá odstavec „**Organizační složkou** se rozumí orgán strany s výjimkou celostátního fóra a oblastního fóra.“
-4. Toto usnesení **účinkuje** pátým dnem po vyhlášení. 
+5. Po dobu 14 dnů od účinnosti tohoto předpisu se místo § 11 nových pravidel hospodaření postupuje podle dosavadních předpisů o výjimečném zcizení.
+6. Toto usnesení **účinkuje** pátým dnem po vyhlášení. 
 
 * * *
 
@@ -57,9 +58,9 @@ h) zatížit věc v majetku strany věcným břemenem v rozsahu větším, než 
 
 ##### § 6 Výběrová řízení
 
-Na záměr s celkovými náklady nad 50 000 Kč musí orgán strany vypsat veřejné výběrové řízení ve dvou fázích:
+Na zakázku s celkovými náklady nad 50 000 Kč musí orgán strany vypsat veřejné výběrové řízení ve dvou fázích:
 
-1. V **zadávací fázi** zveřejní hospodář orgánu strany zadání, které obsahuje požadavky na nabídky a způsob výběru vítěze takovým způsobem, aby kritériím hodnocení mohli uchazeči přizpůsobit své nabídky. Zpravidla také osloví aspoň tři dodavatele. Proti zadání lze podat podnět k nápravě nadřízenému orgánu, ledaže výběrové řízení probíhá za standardních podmínek, které nadřízený orgán schválil.
+1. V **zadávací fázi** zveřejní hospodář orgánu strany zadání, které obsahuje požadavky na nabídky a způsob výběru vítěze takovým způsobem, aby kritériím hodnocení mohli uchazeči přizpůsobit své nabídky. Zpravidla také aspoň tři dodavatele osloví nebo zjistí jejich nabídky. Proti zadání lze podat podnět k nápravě nadřízenému orgánu, ledaže výběrové řízení probíhá za standardních podmínek, které nadřízený orgán schválil.
 
 2. V **hodnotící fázi** vybere hodnotitel vítěze z nabídek, které obdrží. Nestačí-li hodnocení podle nabídkové ceny, hodnotící komise musí být sestavena nejméně ze tří odborníků způsobem schváleným v zadávací fázi. Rozhodnutí o hodnocení lze přezkoumat na základě stížnosti,[^rr] která nemá odkladný účinek.
 
@@ -100,9 +101,9 @@ c) republikové předsednictvo se záměrem předem souhlasilo a uzavřelo s dá
 
 ##### § 10 Záměr a jeho celkové náklady
 
-(1) **Záměr** je souhrn závazků v jedné rozpočtové jednotce[^rozpoctova-jednotka], které spolu věcně a časově úzce souvisí (např. koupě nebo prodej věci s příslušenstvím, objednávka série plakátů a vylepení, koupě raznice a matrice na odznaky, počítač s monitorem a jeho příslušenství). Za záměr se považuje i opomenutí, které má za následek promlčení dluhu nebo jiné náklady.
+(1) **Záměr** je souhrn závazků v jedné rozpočtové jednotce[^rozpoctova-jednotka], které spolu věcně a časově úzce souvisí (např. koupě nebo prodej věci s příslušenstvím, organizace akce nebo turné, objednávka série plakátů a vylepení, koupě raznice a matrice na odznaky, počítač s monitorem a jeho příslušenství). Za záměr se považuje i opomenutí, které má za následek promlčení dluhu nebo jiné náklady.
 
-(2) **Celkové náklady záměru** jsou vyjádřeny peněžitou hodnotou[^hodnota] nákladů, které lze v rozpočtové jednotce důvodně očekávat v souvislosti se záměrem. Celkové náklady záměru se posuzují nezávisle na počtu účetních případů, do kterých byl záměr rozdělen. V případě výpůjčky, pronájmu, pachtu či věcného břemena k věci strany zahrnují náklady záměru též tržní odměnu, která je za užívání obvyklá. 
+(2) **Celkové náklady záměru** jsou vyjádřeny peněžitou hodnotou[^hodnota] nákladů, které lze v rozpočtové jednotce důvodně očekávat v souvislosti se záměrem, a to včetně rezervy na nečekané výdaje. Celkové náklady záměru se posuzují nezávisle na počtu účetních případů, do kterých byl záměr rozdělen. V případě výpůjčky, pronájmu, pachtu či věcného břemena k věci strany zahrnují náklady záměru též tržní odměnu, která je za užívání obvyklá. 
 
 [^hodnota]: § 492 zákona č. 89/2012 Sb., občanský zákoník. 
 [^rozpoctova-jednotka]: § 6 odst. 3 rozpočtových pravidel.
@@ -118,13 +119,13 @@ c) republikové předsednictvo se záměrem předem souhlasilo a uzavřelo s dá
 (2) Záměr rozpočtové jednotky, jehož celkové náklady mají přesáhnout 
 
     a) prahovou hodnotu 5 000 Kč, je podmíněn souhlasem příslušného předsednictva,
-    b) prahovou hodnotu 50 000 Kč, je podmíněn souhlasem příslušného schvalujícího orgánu.[^schvalujici-organ]
+    b) prahovou hodnotu 50 000 Kč, je podmíněn souhlasem příslušného schvalujícího orgánu.[^schvalujici-organ] 
 
-(3) Souhlas se záměrem se vyslovuje usnesením, které obsahuje dostupné informace o záměru a výši odsouhlasených nákladů záměrů. Do této výše jsou odsouhlasena všechna právní jednání. 
+(3) Prahovou hodnotu pro svůj souhlas může příslušný orgán usnesením snížit, a to jak pro jednotlivé případy, tak obecně.
 
-(4) Dodatečné rozšíření záměru je podmíněno souhlasem orgánu strany, jen pokud jím neodsouhlasené náklady na tento záměr přesáhnou prahovou hodnotu pro souhlas (odst. 2).
+(4) Souhlas se záměrem vyslovuje příslušný orgán usnesením, které obsahuje dostupné informace o záměru a výši jím odsouhlasených nákladů záměru. Do této výše jsou jím odsouhlasena všechna právní jednání. 
 
-Výdaje nad odsouhlasenou výši tuto výši jde o nový záměr, který může vyžadovat samostatný souhlas. 
+(5) Dodatečné rozšíření záměru je podmíněno souhlasem příslušného orgánu, jen pokud jím neodsouhlasené náklady na tento záměr přesáhnou prahovou hodnotu pro souhlas.
 
 [^schvalujici-organ]: § 6 odst. 3 rozpočtových pravidel.
 
