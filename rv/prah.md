@@ -5,9 +5,10 @@ Republikový výbor se usnesl takto:
 1. **Schvalují** se nová pravidla hospodaření.
 2. Dosavadní pravidla hospodaření se **ruší**.
 3. Nevyřízené žádosti o proplacení se posoudí podle nových pravidel hospodaření. 
-4. Ve statutu pro odbory a komise se na začátek vkládá odstavec „**Organizační složkou** se rozumí orgán strany s výjimkou celostátního fóra a oblastního fóra.“
-5. Po dobu 14 dnů od účinnosti tohoto předpisu se místo § 11 nových pravidel hospodaření postupuje podle dosavadních předpisů o výjimečném zcizení.
-6. Toto usnesení **účinkuje** pátým dnem po vyhlášení. 
+4. Ve statutu pro odbory a komise se na začátek vkládá odstavec „**Organizační složkou** je každý orgán strany s výjimkou celostátního fóra a oblastního fóra.“ a dále se jeho § 3 vypouští. 
+5. V § 21 rozhodčího řádu se slova „vydaná zavazují organizační složky strany“ nahrazují slovy „vydané se vztahuje na všechny orgány strany“.
+6. Po dobu 14 dnů od účinnosti tohoto předpisu se místo § 11 nových pravidel hospodaření postupuje podle dosavadních předpisů o výjimečném zcizení.
+7. Toto usnesení **účinkuje** pátým dnem po vyhlášení. 
 
 * * *
 

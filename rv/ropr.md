@@ -189,7 +189,7 @@ V rámci schváleného rozpočtu předsednictvo může schválit pracovní rozpo
 
 ##### § 19 Rozpočtová kontrola
 
-Rozpočtovou kontrolu provádí na celostátní úrovni kontrolní komise, případně kontrolní komise nebo kontrolní odbor zřízené oblastním sdružením[^kk] nebo kdokoliv další. Postup přezkumných orgánů při kontrole upravuje jiný předpis.[^kontrola]
+Rozpočtovou kontrolu provádí na celostátní úrovni kontrolní komise, případně na nižší organizační úrovni kontrolní komise nebo kontrolní odbor zřízené oblastním sdružením[^kk] nebo kdokoliv další. Postup přezkumných orgánů při kontrole upravuje jiný předpis.[^kontrola]
 
 [^kk]: Čl. 7 odst. 4 písm. c) stanov.
 [^kontrola]: Pravidla hospodaření, rozhodčí řád. 
