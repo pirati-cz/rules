@@ -172,15 +172,17 @@ Hospodář je povinen každý výdaj řádně doložit ve stanovené lhůtě dok
 
 (3) Před vyplácením rozhodnutím o žádosti finanční odbor zkoumá, zda výdaj odpovídá pravidlům hospodaření, zejména
 
-    a) zda byl výdaj schválen hospodářem organizační složky, z jejíhož rozpočtu má být výdaj proplacen, 
+    a) zda byl výdaj schválen hospodářem organizační složky, která odpovídá za výdajovou rozpočtovou položku, ze které má být výdaj proplacen,[^ropr-odpovednost] 
     b) zda je výdaj součástí záměru, který mají odsouhlasit další orgány, případně zda je připojen jejich souhlas,
-    c) zda byla registrována výdajová rozpočtová položka, z níž má být výdaj proplacen, zda je v ní dostatek peněz pro proplacení a zda výdaj odpovídá určení podle rozpočtové položky,
+    c) zda byla registrována výdajová rozpočtová položka, z níž má být výdaj proplacen, zda je v ní dostatek peněz pro proplacení a zda výdaj odpovídá určení rozpočtové položky,
     d) zda byl výdaj hodnověrně doložen, pokud je proplácen zpětně, 
     e) zda je na bankovních účtech dostatek prostředků pro proplacení výdaje.
 
 (4) Finanční odbor zamítne žádost, která je v rozporu s pravidly hospodaření. Jinak finanční odbor žádosti vyhoví a žádost proplatí zpětně nebo dopředu na účet příjemce bez zbytečného odkladu. 
 
 (5) Při vnitřních převodech mezi organizačními složkami se postupuje přiměřeně jako u žádosti o proplacení.
+
+[^ropr-odpovednost]: § 8 odst. 1 písm. c) rozpočtových pravidel.
 
 [^trideni]: § 18 odst. 1 písm. c) zákona č. 424/1991 Sb., o politických stranách a politických hnutích, ve znění pozdějších předpisů.
 

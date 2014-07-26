@@ -99,8 +99,9 @@ d) informace o financování salda rozpočtu.
 (1) Rozpočtová položka je oddělenou částí rozpočtu, u které musí být uvedeny následující informace:
     a) název, který vymezuje původ příjmů nebo druh výdajů, v souladu s případným účelem peněz,[^prah]
     b) rozpočtový limit, tedy nejvyšší přípustný výdaj nebo očekávaný příjem rozpočtové položky,
-    c) odpovědná organizační složka, která s rozpočtovou položkou hospodaří podle pravidel hospodaření,
-    d) datum registrace rozpočtové položky, pokud již byla registrována.
+    c) odpovědná rozpočtová jednotka nebo organizační složka, která s rozpočtovou položkou hospodaří podle pravidel hospodaření,[^odpovednost] jde-li o výdajovou rozpočtovou položku; je-li uvedena jen rozpočtová jednotka, má se za to, ze odpovědnou organizační složkou je příslušné předsednictvo,
+    d) odpovědná rozpočtová jednotka, která je oprávněna rozpočítat danou rozpočtovou položku ve svém rozpočtu na výdaje, jde-li o příjmovou rozpočtovou položku nebo rozpočtovou položku se saldem rozpočtu,
+    e) datum registrace rozpočtové položky, pokud již byla registrována.
 
 (2) U rozpočtové položky se dále uvedou následující doplňkové informace, pokud je to možné:
     a) účel peněz, který má být společný pro všechny peníze v rozpočtové položce,
@@ -110,6 +111,8 @@ d) informace o financování salda rozpočtu.
 (3) Rozpočtové položky se sdružují do rozpočtových kapitol. 
 
 [^prah]: § 8 pravidel hospodaření.
+
+[^odpovednost]: § 16 odst. 3 písm. a) pravidel hospodaření.
 
 ##### § 9 Vazba mezi rozpočtovými položkami
 
@@ -168,20 +171,23 @@ d) hospodaření v předchozím roce neskončilo schodkem.
     a) **Rozpočtový dodatek**. Rozpočet smí schvalující orgán v průběhu rozpočtového roku změnit; postupuje se obdobně podle ustanovení o rozpočtu. Jde o jediné rozpočtové opatření, které vyžaduje souhlas schvalujícího orgánu.
     b) **Náprava nedostatků**. Předsednictvo je zmocněno podle své úvahy napravit nedostatky zjištěné finančním odborem, a to jen v nezbytném rozsahu zjištěných nedostatků.
     c) **Zkrácení rozpočtové položky**. Určitou výdajovou rozpočtovou položku smí předsednictvo nejvýše jednou během rozpočtového období zkrátit nejvýše o jednu pětinu; postupuje se obdobně jako u žádosti o proplacení. Takto získaná částka se převede do jiné rozpočtové položky.
-    d) **Přesunutí rezerv**. Příslušné předsednictvo může kdykoliv během rozpočtového období svou rozpočtovou rezervu zcela nebo zčásti převést do jiné rozpočtové položky. 
-    e) **Automatická změna rozpočtu**. Při automatické změně rozpočtu změní finanční odbor potřebným způsobem dotčenou rozpočtovou položku a odpovídajícím způsobem upraví i rozpočtovou rezervu tak, aby zůstala v povoleném rozmezí (§ 11). Nepostačuje-li taková změna, upraví výši přebytku rozpočtu. Není-li v rozpočtu přebytek nebo není změna dostatečná, vyzve příslušné předsednictvo k nápravě nedostatků nebo provedení jiné změny rozpočtu. 
+    d) **Přesunutí rezerv**. Příslušné předsednictvo může kdykoliv během rozpočtového období svou rozpočtovou rezervu zcela nebo zčásti převést do jiné výdajové rozpočtové položky. 
+    e) **Automatická změna rozpočtu**. Při automatické změně rozpočtu změní finanční odbor potřebným způsobem dotčenou rozpočtovou položku a odpovídajícím způsobem upraví i rozpočtovou rezervu tak, aby zůstala v povoleném rozmezí (§ 11). Nepostačuje-li taková změna, upraví výši přebytku rozpočtu. Není-li v rozpočtu přebytek nebo není změna dostatečná, vyzve příslušné předsednictvo k nápravě nedostatků nebo provedení jiné změny rozpočtu.
+    f) **Poznamenání do rozpočtu.** Finanční odbor však automatickou změnu rozpočtu neprovede, pokud jsou nepředvídané skutečné příjmy účelově určeny[^ucel-urceni] takovým způsobem, že může dovodit všechny náležitosti rozpočtové položky (§ 8). O nepředvídané rozpočtové příjmy pak navýší příjmovou rozpočtovou položku a na ni vázanou výdajovou rozpočtovou položku. Pokud tyto rozpočtové položky dosud neexistují, registruje je.
 
 (2) Změnu rozpočtového výhledu, výdajové rozpočtové položky nadřízeného rozpočtu, rozpočtových pravidel a jiných ovlivnitelných skutečností lze provést jen v rozsahu, který nemá vliv na záměry, které strana již zaplatila nebo k nimž se zavázala.
 
+[^ucel-urceni]: § 8 pravidel hospodaření.
+
 ##### § 16 Změna skutečností 
  
-V návaznosti na opravu odhadu podle schváleného výsledku hospodaření, nepředvídané skutečné příjmy, organizační změny, prokazatelné opravy rozpočtových položek v důsledku podstatného snížení skutečných příjmů oproti očekávání, nemožnost dosažení účelu výdajové rozpočtové položky, daňové změny a jiné ovlivnitelné i neovlivnitelné závazné skutečnosti provede finanční odbor automatickou změnu rozpočtu (§ 15 odst. 1 písm. e).
+V návaznosti na opravu odhadu podle schváleného výsledku hospodaření, organizační změny, prokazatelné opravy rozpočtových položek v důsledku podstatného snížení skutečných příjmů oproti očekávání, nemožnost dosažení účelu výdajové rozpočtové položky, daňové změny, nepředvídané skutečné příjmy bez účelového určení a jiné ovlivnitelné i neovlivnitelné závazné skutečnosti provede finanční odbor automatickou změnu rozpočtu (§ 15 odst. 1 písm. e).
 
 ##### § 17 Rozpočtové provizorium
 
-(1) V **rozpočtovém provizoriu** se v rozpočtovém období hospodaří, pokud byla porušena povinnost sestavit rozpočet, a to až do registrace rozpočtu. 
+(1) V **rozpočtovém provizoriu** se v rozpočtovém období hospodaří, pokud byla porušena povinnost sestavit rozpočet, a to až do registrace rozpočtu. Změnu rozpočtu rozpočtovým opatřením (§ 15 odst. 1) lze provést i v rozpočtovém provizoriu.
 
-(2) V rozpočtovém provizoriu finanční odbor na žádost předsednictva registruje bez schválení schvalujícího orgánu jen výdajovou položku obsahující rozpočtovou rezervu ve výši, která mimo jiné nepřesáhne výši rezervy předsednictva v minulém rozpočtovém období.
+(2) V rozpočtovém provizoriu finanční odbor na žádost předsednictva registruje bez schválení schvalujícího orgánu výdajovou položku obsahující rozpočtovou rezervu jen ve výši, která mimo jiné nepřesáhne výši rezervy předsednictva v minulém rozpočtovém období.
 
 ##### § 18 Pracovní rozpočet
 
