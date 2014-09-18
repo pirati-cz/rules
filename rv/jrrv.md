@@ -81,7 +81,7 @@ Pro účely tohoto odstavce se orgánem strany voleným republikovým výborem r
 (3) Kromě důvodů předepsaných v jednacím řádu celostátního fóra (§ 27 JdŘ) jednání v referendu předsedající zahájí také, když
  * a) republikovému výboru nějaké rozhodnutí odkáže celostátní fórum v referendu,
  * b) republikovému výboru je předložen návrh na zrušení vyhlášky (§ 16 ZřKO),
- * c) hospodář3) požádá republikový výbor o schválení výjimečného zcizení4) nebo daru cizímu subjektu podléhajícímu schválení republikovým výborem5) z rozpočtu organizační složky6), jejímž je hospodářem,
+ * c) hospodář3) požádá republikový výbor o schválení záměru4) z rozpočtu organizační složky5), jejímž je hospodářem,
  * d) mu vedoucí orgánu předloží přijatelný návrh usnesení, pokud se má navrženým usnesením schválit dokument, který byl vyjednán s třetími stranami,
  * e) mu příslušné oblastní předsednictvo předloží návrh na upravení pořadí na kandidátní listině(§ 17(b) VŘ), nebo
  * f) republikové předsednictvo, příslušné krajské předsednictvo u krajských voleb, nebo člen výboru zvolený příslušným krajem navrhnou provedení dohledu nad volební spoluprací(§ 16 VŘ).
@@ -163,7 +163,6 @@ Rozhodující hlasování	|| 96 hodin
 (x) STOK
 * 1) např. § 4 StOK, § 2(4) PraH
 * 2) viz §31 JdŘ
-* 3) viz § 2 odst. 4 PraH
-* 4) viz § 9 odst. 3 PraH
-* 5) viz § 9 odst. 5 PraH
-* 6) viz § 2 odst. 1 PraH
+* 3) viz § 4 PraH
+* 4) viz § 11 odst. 2 písm b) PraH
+* 5) viz § 2 odst. 1 PraH
