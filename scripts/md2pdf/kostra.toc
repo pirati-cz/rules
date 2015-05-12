@@ -1,0 +1,30 @@
+\select@language {czech}
+\contentsline {section}{Rozpočtová pravidla}{2}{Item.9}
+\contentsline {subsection}{Úvodní ustanovení}{2}{section*.1}
+\contentsline {subparagraph}{§ 1 Účel předpisu}{2}{section*.1}
+\contentsline {subparagraph}{§ 2 Rozpočtové určení příjmů}{3}{section*.2}
+\contentsline {subparagraph}{§ 3 Hospodaření s~veřejnými penězi}{3}{Item.11}
+\contentsline {subparagraph}{§ 4 Harmonogram rozpočtování}{4}{Item.13}
+\contentsline {subsection}{Rozpočet}{4}{table.2}
+\contentsline {subparagraph}{§ 5 Rozpočtové období}{4}{section*.3}
+\contentsline {subparagraph}{§ 6 Soustava rozpočtů}{4}{section*.3}
+\contentsline {subparagraph}{§ 7 Skladba rozpočtu}{5}{table.3}
+\contentsline {subparagraph}{§ 8 Rozpočtová položka}{5}{Item.20}
+\contentsline {subparagraph}{§ 9 Vazba mezi rozpočtovými položkami}{6}{Item.30}
+\contentsline {subparagraph}{§ 10 Příjmy a výdaje rozpočtu}{6}{Item.34}
+\contentsline {subparagraph}{§ 11 Rezerva předsednictva}{6}{Item.36}
+\contentsline {subparagraph}{§ 12 Omezení schodku}{7}{Item.38}
+\contentsline {subsection}{Základní rozpočtové postupy}{7}{Item.42}
+\contentsline {subparagraph}{§ 13 Návrh rozpočtu}{7}{section*.4}
+\contentsline {subparagraph}{§ 14 Registrace rozpočtu}{7}{Item.45}
+\contentsline {subparagraph}{§ 15 Změna rozpočtu}{7}{Item.48}
+\contentsline {subparagraph}{§ 16 Změna skutečností}{8}{Item.55}
+\contentsline {subparagraph}{§ 17 Rozpočtové provizorium}{9}{Item.55}
+\contentsline {subparagraph}{§ 18 Pracovní rozpočet}{9}{Item.57}
+\contentsline {subparagraph}{§ 19 Rozpočtová kontrola}{9}{Item.57}
+\contentsline {subsection}{Další dokumenty}{9}{Item.57}
+\contentsline {subparagraph}{§ 20 Rozpočtový výhled}{9}{section*.5}
+\contentsline {subparagraph}{§ 21 Výsledky hospodaření}{10}{Item.64}
+\contentsline {subparagraph}{§ 22 Výroční finanční zpráva}{10}{Item.67}
+\contentsline {subsection}{Závěrečná ustanovení}{11}{Item.70}
+\contentsline {subparagraph}{§23 Prováděcí předpisy}{11}{section*.6}

@@ -20,3 +20,16 @@ v [tutoriálu][git-guide].
 
 Nebojte se sami experimentovat ve větvích, vytvořit si fork tohoto 
 projektu a požádat o začlenění vašich změn. I předpisy mohou být zábava!
+
+Generování souborů ve formátu PDF
+---------------------------------
+
+Společně se soubory je připojen jednoduchý skript, který vám umožní 
+generovat vnitřní předpisy ve formátu PDF. Pro spuštění je třeba mít 
+nainstalován XeLaTeX. 
+
+Skript se spouští příkazem v domovském adresáři, například 
+v následující podobě
+
+    ./md2pdf.sh rv/ropr.md
+

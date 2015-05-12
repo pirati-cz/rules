@@ -1,53 +1,49 @@
-# Pravidla pro příspěvky
+# Pravidla pro členství a status registrovaného příznivce
 
+## Členství
 
-Funkční kontakt 
-    : znamená e-mail a alespoň jeden další libovolný elektronický prostředek, kterým lze uchazeče kontaktovat (např. telefon, jabber, skype a podobné).
-Uplatnění 
-    : označuje nejpozdější ze dnů, kdy byl člen přijat nebo kdy vypršelo pokrytí předchozího příspěvku.
+##### § 1 Členský příspěvek
 
-## Členové
+(1) Člen platí členský příspěvek na každé roční období v jedné splátce ve výši přiměřené jeho finančním možnostem, kterou si podle vlastní vůle stanoví v rozmezí 200 Kč až 49999 Kč.
 
-##### §1 Výše příspěvku
+(2) Zaplacení příspěvku na první roční období od vzniku členství je podmínkou vzniku členství. Příspěvek na každé další roční období se platí nejpozději v první den ročního období, na které se příspěvek vztahuje. Administrativní odbor zašle členovi upozornění přiměřenou dobu před splatností příspěvku.
 
-Člen platí členský příspěvek v jedné roční splátce ve výši přiměřené jeho finančním možnostem, kterou si podle vlastní vůle stanoví v rozmezí 200 Kč až 49999 Kč.
+(3) Administrativní odbor zašle upozornění členovi, jakmile se dostane do prodlení s platbou členského příspěvku. V upozornění stanoví členovi přiměřenou dodatečnou lhůtu pro doplacení příspěvku a upozorní ho, že nezaplacení členského příspěvku je důvodem pro zánik členství.
 
-##### §2 Pokrytí příspěvku
+(4) Pokud dodatečná lhůta pro zaplacení členského příspěvku uplyne a člen příspěvek nezaplatí, zaniká členství dnem vzetí na vědomí (čl. 3(6) St).
 
-Členský příspěvek pokrývá členství vždy rok od uplatnění, potom vyprší. Lhůta pro zaplacení příspěvku činí měsíc od vypršení. Administrativní odbor musí poučit člena do 14 dní od vypršení, že musí doplatit příspěvek. Pokud lhůta pro zaplacení uplyne a člen příspěvek nedoplatí, zaniká členství dnem vzetí na vědomí (čl. 3(6) St).
+##### §2 Podmínka občanství
 
-##### §3 Osobní údaje v přihlášce
+(1) Občanem se ve stanovách rozumí 
+státní občan České republikyX) a dále
+občan Evropské unie,Y) který má v České republice potvrzen přechodný pobyt nebo povolen trvalý pobyt.Z)
 
-Přihláška obsahuje osobní údaje: jméno a příjmení, datum narození, místo trvalého bydliště, státní příslušnost (čl. 3(2)a St) a uchazeč k ní připojí funkční kontakt. Z přihlášky musí být jasné, kterému oblastnímu sdružení je určena.
+(2) Přijmající předsednictvo splnění podmínky občanství ověří, ledaže to zjevně není třeba.
+
+##### §3 Přihláška
+
+(1) Přihláška dále obsahuje osobní údaje žadatele: jméno a příjmení, datum narození, místo trvalého bydliště, státní příslušnost (čl. 3(2)a St) a uchazeč k ní připojí funkční kontakt. Z přihlášky musí být jasné, kterému oblastnímu sdružení je určena.
+
+(2) Přesnou podobu přihlášky vyhlási administrativní odbor.
 
 ## Registrovaní příznivci
 
-##### §4 Příznivci
+##### § 4 Příznivci
 
 Registrovaní příznivci neplatí příspěvek (čl. 4(1) a čl. 9(5)a St) a příznivcem se může stát každý bez jakýchkoliv dalších omezení, jakmile se zaregistruje podepsáním formuláře, ve kterém vyplní přezdívku, funkční kontakt a kraj. Formulář je i elektronický, kde se za podepsání považuje odeslání. Registraci příznivce může zrušit příslušné předsednictvo, pokud žádný z kontaktů nefunguje, nebo pokud příznivec poškodí stranu. Při zrušení registrace kvůli poškození strany musí předsednictvo poučit příznivce, že rozhodnutí lze přezkoumat.
 
-##### §5 Správa údajů
+##### § 5 Správa údajů
 
 Členské přihlášky, příspěvky členů a údaje o příznivcích spravuje administrativní odbor. Přes jeho rozhraní internetového fóra, které se vhodně zjednoduší, probíhá i registrace příznivců. K papírovým přihláškám a formulářům zde zřizuje účty. Všechna oblastní sdružení podporují nábor registrovaných příznivců způsobem, který vymezí administrativní odbor. Předsednictva oblastních sdružení mají přístup ke všem údajům o registrovaných příznivcích ve své oblasti.
 
-## Přechodná a závěrečná ustanovení
-
-##### §6 Přechod příznivců na členství
-
-Registrovaným příznivcům, kteří již příspěvek zaplatili, se nevrací. Dosavadní registrovaný příznivec se může do jednoho roku od zaplacení příspěvku stát členem oznámením, přičemž se mu do členského příspěvku započítá částka, kterou již zaplatil v příspěvku registrovaného příznivce.
-
-##### §7 Uvedení v život
-
-Další údaje na přihlášce nebo registračním formuláři, které nepožadují předpisy, se uvádí jen dobrovolně a administrativní odbor je dodá technickému odboru. Technický odbor zapracuje přijímání registrovaných příznivců do nového webu. Mediální odbor připraví propagační náborovou akci (např. posílá všem členům a příznivcům Newsletter).
-
 ##### §8 Fóra uzavřená příznivcům
 
-Orgány a organizační jednotky smějí uzavřít některá svá jednání registrovaným příznivcům.
-
-##### §9 Generální zrušovací klauzule
-
-Všechna dosavadní pravidla o přijímání členů a registraci příznivců, kterých se tento předpis nedovolává, se ruší.
+Orgány a organizační jednotky smějí uzavřít některá svá jednání registrovaným příznivcům; Předchozí věta se nevztahuje na příznivce, kteří jsou zvolenými členy kontrolní komise, nebo jemnovanými členy daného orgánu. 
 
 ##### §10 Účinnost
 
-Předpis účinkuje vyhlášením a provede ho administrativní odbor.
+Předpis účinkuje vyhlášením a provede jej administrativní odbor.
+----
+X) § 3 zákona č. 186/2013 Sb., o státním občanství České republiky.
+Y) Čl. 9 smlouvy o Evropské unii.
+Z) § 87a a § 87g a násl. zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky.
