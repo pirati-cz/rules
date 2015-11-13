@@ -275,7 +275,7 @@
 
 *  g) projednává a schvaluje výroční finanční zprávu podle §18(1) ZPS,
 
-*  h) mimořádně přezkoumává rozhodnutí orgánu strany, pokud to pětina členů strany navrhne předsedovi do dvou týdnů od právní moci rozhodnutí; od toho okamžiku se vykonatelnost rozhodnutí pozastavuje. Celostátní fórum může do dvou týdnů od pozastavení rozhodnutí zrušit. Jinak se rozhodnutí vykoná.
+*  h) mimořádně přezkoumává rozhodnutí orgánu strany, pokud to skupina členů strany navrhne předsedovi do dvou týdnů od právní moci rozhodnutí; od toho okamžiku se vykonatelnost rozhodnutí pozastavuje. Celostátní fórum může do dvou týdnů od pozastavení rozhodnutí zrušit. Jinak se rozhodnutí vykoná. Pro účely tohoto ustanovení se skupinou rozumí alespoň pětina, nestanoví-li celostátní fórum ve svém jednacím řádu méně.
 
 
 
