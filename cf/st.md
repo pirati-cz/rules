@@ -251,7 +251,7 @@
 
 
 
-(3) Zasedání celostátního fóra svolává předseda strany nejméně jednou za rok; nemohou-li se ho z kapacitních důvodů zúčastnit všichni, kdo o to mají zájem, omezí předsednictvo účast s hlasovacím právem na všechny, kdo vykonávají funkci volenou celostátním fórem, členy s volenou funkcí za stranu v ústředních orgánech státní správy a na delegáty z krajů. Předseda strany stanoví s oznámením zasedání i počet delegátů z krajů poměrně k počtu jejich členů tak, aby na celostátním fóru tvořili delegáti z krajů většinu. Kraje vysílají delegáty na základě poměrného zastoupení názorů.
+(3) Zasedání celostátního fóra svolává předseda strany nejméně jednou za rok.
 
 
 
