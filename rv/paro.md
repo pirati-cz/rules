@@ -1,8 +1,10 @@
+======Pravidla participativního rozpočtování======
+
 == § 1 Účel předpisu==
 
 Tento předpis upravuje
   * a) rozdělování prostředků v participativním rozpočtování mezi veřejně prospěšné projekty, 
-  * b) vztahy mezi smluvními stranami v případě uzavření smlouvy o projektu.
+  * b) vztah mezi účastníky projektu.
 
 == § 2 Projekt ==
 
@@ -10,25 +12,24 @@ Tento předpis upravuje
 
 == § 3 Participativní rozpočtování ==
 
-**Participativní rozpočtování** je postup sestavování rozpočtu, ve kterém každý člen svým hlasem rozhoduje o tom, který veřejně prospěšný projekt bude financován z rozpočtovaných prostředků. Výše participativního rozpočtu vychází z rozpočtu strany. 
+**Participativní rozpočtování** je postup sestavování rozpočtu((viz [[/rules/ropr#zakladni_rozpoctove_postupy|Pravidla rozpočtování]])), ve kterém každý člen svým hlasem rozhoduje o tom, který veřejně prospěšný projekt bude financován z rozpočtovaných prostředků. Výše participativního rozpočtu vychází z rozpočtu strany. 
 
 == § 4 Účastníci projektu ==
 
 (1) Na každém projektu se vždy účastní
   * a) **řešitel** projektu, který projekt přihlašuje do participativního rozpočtování, rozhoduje o všech záležitostech projektu a nese za něj plnou odpovědnost,
-  * b) **kontrolor** projektu, který dohlíží na to, že je projekt řešen v souladu s uzavřenou smlouvou, písemně vytýká zjištěné nedostatky řešiteli a v případě, že není zjednána náprava, o nich písemně vyrozumí příslušný orgán nebo kontrolní komisi strany,
-  * c) **příslušný orgán** jednající za stranu; příslušným orgánem je výkonný orgán s odpovídající celostátní působností, který projekty ve své působnosti koordinuje, žádá o proplacení nákladů projektu a kontroluje plnění smlouvy o projektu za stranu jako zadavatelku.
+  * b) **příslušný výkonný orgán** jednající za stranu; příslušným orgánem je výkonný orgán s odpovídající celostátní působností, který projekty ve své působnosti koordinuje, hospodaří s prostředky projektu a kontroluje plnění projektu, zejména veřejně prospěšného účelu za stranu jako zadavatelku.
 
-(2) Řešitelem a kontrolorem projektu může být jen člen, který
+(2) Řešitelem projektu může být jen člen, který
   * a) není v rejstříku dlužníků se splatnými závazky vůči straně, pokud je veden, a
-  * b) účastní se jako řešitel nebo kontrolor nejvýše pěti projektů.
+  * b) účastní se jako řešitel nejvýše tří projektů.
 
 == § 5 Kolo participativního rozpočtování ==
 
 Každé kolo participativního rozpočtování zahajuje republikový výbor usnesením vydaným na návrh republikového předsednictva, které obsahuje
   * a) termín pro přihlášení projektů,
-  * b) rozpočtový strop,
-  * c) počet hlasů každého člena a nejvyšší přípustný počet hlasů, který může člen dát jedné přihlášce,
+  * b) rozpočtový strop kola,
+  * c) počet hlasů každého člena,
   * d) výši prostředků připadající na jeden hlas,
   * e) nejpozdější přípustný termín pro řádné ukončení projektu.
 
@@ -37,26 +38,26 @@ Každé kolo participativního rozpočtování zahajuje republikový výbor usne
 == § 6 Přijatelnost přihlášky ==
 
 (1) Přihláška je  přijatelná, pokud je v souladu s právem a politikou strany, zejména 
-  * a) má předepsané náležitosti,
+  * a) má předepsané náležitosti([#nalezitosti_prihlasky_projektu|§ 7]),
   * b) je podána v termínu pro přihlášení projektů daného kola participativního rozpočtování, 
   * c) odpovídá koncepci příslušné organizační složky, pokud je zveřejněna,
   * d) převážná část projektu spočívá v dobrovolnické bezplatné činnosti,
-  * e) navrhované výdaje projektu lze hradit z veřejných peněz ([[/rules/ropr#a_ucelove_urceni_nekterych_prijmu|§ 3a odst. 3 RoPr]]),
-  * f) minimální výše prostředků na projekt činí 5 000 Kč.
+  * e) navrhované výdaje projektu lze hradit z peněz strany((zejména [[/rules/prah#zakazana_pravni_jednani|§ 5 Prah]] s výjimkou písmene b) )),
+  * f) minimální výše prostředků na projekt činí nejméně 5 000 Kč.
 
 (2) Příslušný orgán může souhlas odepřít pouze v případě, kdyby byla přihláška nepřijatelná. Má se za to, že přihláška, se kterou příslušný orgán vyslovil souhlas, je přijatelná.
 
 == § 7 Náležitosti přihlášky projektu==
 
-Přihláška projektu se podává písemně prostřednictvím informačního systému, který vede administrativní odbor. Přihláška projektu musí obsahovat aspoň následující údaje:
+Přihláška projektu se podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor. Přihláška projektu musí obsahovat aspoň následující údaje:
   * a) název projektu, k němuž se přihláška podává, a případně upřesnění záměru, které přihlášku dostatečně odlišuje od ostatních přihlášek,
   * b) veřejně prospěšný účel, který má být projektem dosažen,
-  * c) označení účastníků projektu ([[#ucastnici_projektu|§ 4]]) a projev jejich souhlasu,
+  * c) označení účastníků projektu ([[#ucastnici_projektu|§ 4]]),
   * d) věcné podmínky projektu (vybavení k řešení projektu, které bude nutné zakoupit nebo se souhlasem jeho správce používat),
   * e) časové podmínky projektu (termín zahájení a řádného ukončení projektu, členění projektu na úseky, odhadovaný celkový čas strávený dobrovolnickou prací na projektu),
   * f) osobní podmínky projektu (označení osob, které přislíbily věnovat svůj čas projektu dobrovolnicky)
-  * g) finanční podmínky projektu (minimální a maximální výše prostředků na projekt, při jejichž získání bude projekt řešen, orientační rozpočet projektu, výše odměny pro řešitele nebo jiné osoby ([[#odmena_resitele|§ 22]]), pokud je navrhována),
-  * h) upřesnění způsobu, jakým bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 23]]).
+  * g) finanční podmínky projektu (minimální a maximální výše prostředků na projekt, při jejichž získání bude projekt řešen, orientační rozpočet projektu, další zdroje financování, výše odměny pro řešitele nebo jiné osoby ([[#odmena|§ 21]]), pokud je navrhována),
+  * h) upřesnění způsobu a termínu, kdy bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 22]]).
 
 ===== Výběr přihlášek =====
 
@@ -70,108 +71,98 @@ Administrativní odbor
 == § 9 Hlasování o projektech ==
 
 O projektech hlasují členové strany podle následujících zásad:
-  * a) hlasující mají možnost se seznámit s přehledem přihlášek na jediné internetové stránce, která je výstupem odpovídajícího informačního systému,
+  * a) hlasující mají možnost se seznámit s přehledem přihlášek daného kola na jediné internetové stránce, která je výstupem odpovídajícího informačního systému,
   * b) u hlasování je uveden odkaz na úplné znění tohoto vnitřního předpisu, /* viz § 1799 NOZ */ 
-  * c) každý člen strany má k dispozici hlasy a může je projektům rozdat v počtu, který určil republikový výbor pro dané kolo ([[#kolo_participativniho_rozpoctovani|§ 5]]),
+  * c) každý člen strany má k dispozici hlasy v počtu, který určil republikový výbor pro dané kolo ([[#kolo_participativniho_rozpoctovani|§ 5]]),
   * e) své hlasy může člen kdykoliv během hlasování změnit,
   * f) průběžný počet hlasů je během hlasování viditelný, aby mohli členové své hlasy optimálně rozvrhnout a projekty nedostávaly více peněz než potřebují, jinak je hlasování tajné.
 
-== § 10 Výše prostředků na projekt ==
+== § 10 Získané prostředky na projekt ==
 
-Výše prostředků, kterou určitý projekt získal v participativním rozpočtování, se určí jako násobek počtu hlasů pro něj odevzdaných a částky připadající na jeden hlas. Pokud by výše prostředků na všechny projekty, které je možné zahájit, měla přesáhnout rozpočtový strop, výše prostředků se sníží poměrně.
+Výše prostředků, kterou určitý projekt získal v participativním rozpočtování, se určí jako součin počtu hlasů pro něj odevzdaných a částky připadající na jeden hlas. Pokud by výše prostředků na všechny projekty, které je možné zahájit, měla přesáhnout rozpočtový strop daného kola, výše získaných prostředků se sníží poměrně.
 
 == § 11 Výsledek hlasování ==
-U každé přihlášky se při vyhlášení výsledků hlasování uvede
+
+(1) U každé přihlášky se při vyhlášení výsledků hlasování uvede
   * a) počet hlasů, který získala v hlasování, a tomu odpovídající výše prostředků, přičemž k prostředkům získaným nad maximální výši prostředků na projekt uvedenou v přihlášce se nepřihlíží,
   * b) skutečnost, zda může být projekt zahájen; projekt může být zahájen právě tehdy, pokud získané prostředky na projekt dosahují aspoň minimální výše prostředků na projekt uvedené v přihlášce.
 
-===== Smlouva o projektu  =====
+(2) Pokud projekt může být zahájen, 
+  * a) finanční odbor pro něj zaregistruje(([[/rules/ropr#registrace_rozpoctu|§ 14(2) RoPr]])) výdajovou rozpočtovou položku([[/rules/ropr#rozpoctova_polozka|§ 8 RoPr]]) pod názvem projektu([[#nalezitosti_prihlasky_projektu|(§ 7 a)]]), rozpočtovým limitem(([[/rules/ropr#rozpoctova_polozka|§ 8(1)a) RoPr]])) ve výši získaných prostředků([[#ziskane_prostredky_na_projekt|§ 10]]) a příslušným výkonným orgánem jako hospodařící organizační složkou(([[/rules/ropr#rozpoctova_polozka|§ 8(1)c) RoPr]])); dále jako účel peněz(([[/rules/ropr#rozpoctova_polozka|§ 8(2)a) RoPr]])) odkáže přihlášku projektu.
+  * b) záměry((viz [[/rules/prah#zamer_a_jeho_celkove_naklady|§§ 10 a 11 PraH]])) z této rozpočtové položky odpovídající přihlášce s výjimkou odměny[[#odmena|(§ 21)]] se považují za schválené bez ohledu na jejich výši.
 
-== § 12 Uzavření smlouvy o projektu ==
+===== Zahájení a řízení projektu  =====
 
-Pokud je možné projekt zahájit, uzavřou účastníci projektu písemnou smlouvu o projektu podle vzoru schváleného republikovým předsednictvem a zveřejní ji podle jiného předpisu ([[/rules/prah#transparence|§ 5 odst. 2 písm. e) PraH]]). Pokud řešitel odmítne uzavření smlouvy, stává se jeho přihláška nepřijatelnou a dále se k ní nepřihlíží. 
+== § 12 Zahájení projektu ==
 
-== § 13 Náležitosti smlouvy o projektu ==
+Pokud je projekt možné zahájit ([[#vysledek_hlasovani|§ 11(1)b)]]), řešitel zahájí projekt. Pokud řešitel nezahájí v termínu projekt, stává se jeho přihláška nepřijatelnou a dále se k ní nepřihlíží.
 
-(1) Smlouva o projektu obsahuje 
-  * a) označení smluvních stran,
-  * b) závazek řešitele řešit projekt za podmínek uvedených v přihlášce projektu a tomto předpise, které jsou přílohou smlouvy,
-  * c) výši odměny ([[#odmena|§ 22]]), jinak platí, že se zavazují účastnit se řešení projektu bezúplatně,
-  * d) závazek smluvních stran nahradit neplatné, neúčinné nebo nepoužitelné ujednání smlouvy nebo jejích příloh jiným ujednáním s nejbližším možným obsahem,
-  * e) termín řádného ukončení projektu,
-  * f) datum uzavření smlouvy,
-  * g) podpisy smluvních stran.
+== § 13 Doručování ==
 
-(2) K ujednání smlouvy o projektu, které je v rozporu s přílohami smlouvy podle tohoto předpisu a ustanoveními, kterých se tyto přílohy dovolávají, se nepřihlíží.
-
-== § 14 Plnění smlouvy o projektu ==
-
-Smluvní strany se uzavřením smlouvy zavazují 
-  * a) dodržovat při řešení projektu zákony státu a vnitřní předpisy strany a výslovně prohlašují, že jsou s těmito předpisy seznámeny,
-  * b) poskytnout si potřebnou součinnost při postupu podle uzavřené smlouvy o projektu.
-
-== § 15 Doručování ==
-
-Smluvní strany souhlasí s tím, že k doručování lze používat elektronických nástrojů strany. 
+Účastníci projektu souhlasí s tím, že k doručování lze používat elektronických nástrojů strany. 
   * a) Vůči straně mohou ostatní účastníci projektu právně jednat pouze prostřednictvím podatelny příslušného orgánu, ledaže je mu ze zvláštních důvodů třeba zaslat zprávu soukromou zprávou prostřednictvím uživatelského účtu nebo skupiny. 
   * b) Strana vůči ostatním účastníkům projektu právně jedná prostřednictvím jejich uživatelského účtu. 
 Dodáním zprávy podle tohoto ustanovení platí zpráva za doručenou. 
 
-== § 16 Zánik účasti na projektu ==
+== § 14 Zánik účasti na projektu ==
 
-(1) Účast zadavatele na projektu nezaniká. Důvodem zániku účasti ostatních smluvních stran na projektu je jen pozbytí způsobilosti být účastníkem projektu nebo porušení povinnosti smluvní strany. 
+(1) Účast strany na projektu nezaniká. Důvodem zániku účasti řešitele na projektu je jen pozbytí způsobilosti být účastníkem projektu nebo závažné porušení povinností řešitele ([[#povinnosti_resitele_projektu|§ 18]]). 
 
-(2) Porušení povinnosti se může dovolat jen smluvní strana, která ho nezpůsobila a je jím dotčena. U nepodstatného porušení smlouvy se požaduje předchozí výzva k nápravě s upozorněním na hrozící následky.
+(2) Porušení povinnosti se může dovolat jen účastník, který ho nezpůsobil a je jím dotčen. U nepodstatného porušení smlouvy se požaduje předchozí výzva k nápravě s upozorněním na hrozící následky.
 
-(3) Účast na projektu zaniká z předepsaného důvodu buď rozhodnutím zadavatele o vyloučení jiné smluvní strany z projektu nebo jejím vystoupením z projektu. Účast na projektu zaniká jen písemným oznámením toho, kdo chce zániku účasti na projektu dosáhnout, ostatním smluvním stranám. 
+(3) Účast řešitele na projektu zaniká buď rozhodnutím výkonného orgánu z předepsaného důvodu nebo vystoupením řešitele z projektu. Účast na projektu zaniká jen písemným oznámením toho, kdo chce zániku účasti na projektu dosáhnout, všem účastníkům. 
 
-(4) Po zániku účasti na projektu se na vyřešenou část projektu použije smlouva o projektu přiměřeně, ostatní právní vztahy zanikají. Pokud smluvní strana přestala být účastníkem projektu, lze její práva a povinnosti bez jejího souhlasu postoupit jinému členovi strany.
+(4) Pokud řešitel přestal být účastníkem projektu, lze její práva a povinnosti bez jejího souhlasu postoupit jinému členovi strany rozhodnutím výkonného orgánu.
 
-== § 17 Další použití předpisů ==
+== § 15 Prodloužení projektu ==
 
-Nestanoví-li předpis nebo smlouva něco jiného, použijí odpovídající ustanovení občanského zákoníku o kontrolní činnosti mezi zadavatelkou a kontrolorem,(([[http://www.zakonyprolidi.cz/cs/2012-89#p2652|§ 2652]] zákona č. 89/2012 Sb., občanský zákoník.)) o smlouvě o dílo(([[http://www.zakonyprolidi.cz/cs/2012-89#p2586|§ 2586]]  zákona č. 89/2012 Sb., občanský zákoník.)) a o licenční smlouvě(([[http://www.zakonyprolidi.cz/cs/2012-89#p2358|§ 2358]] zákona č. 89/2012 Sb., občanský zákoník.)) mezi zadavatelkou a řešitelem, o vyloučení informací z poskytování při zveřejňování informací řešitelem,((Zákon č. 106/1999 Sb., o svobodném přístupu k informacím.)) a o změně smluvních stran při postoupení smlouvy rubopisem.((§ 1895 zákona č. 89/2012 Sb., občanský zákoník.))
+Pokud je projekt řádně řešen, avšak vyskytla se potřeba jej prodloužit, může výkonný orgán rozhodnout o posunutí řádného termínu ukončení projektu. Trvání projektu je takto možno prodloužit nejvýše na dvojnásobek původní doby řešení. Další nebo opakované prodloužení projektu musí schválit republikové předsednictvo.
 
-== § 18 Řešení sporů ==
+== § 16 Další použití předpisů ==
+ 
+Není-li v přihlášce předem stanoveno jinak, pro díla vzniklá při řešení projektu se uplatní [[/rules/prah#licence|§ 19 PraH]].
 
-(1) V případě sporu, který vznikne z uzavřené smlouvy o projektu nebo v souvislosti s ní a který nejsou smluvní strany s to vyřešit samy anebo v součinnosti s republikovým předsednictvem, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka zapsaného u rozhodčí komise. 
+== § 17 Řešení sporů ==
 
-(2) V případě neúspěchu smírčího jednání se obrátí na kontrolní komisi se stížností podle rozhodčího řádu ([[/rules/rr#stiznost|§ 10 RŘ]]). 
+(1) Proti rozhodnutím výkonného orgánu se lze odvolat k republikovému předsednictvu, které ve věci do týdne rozhodne usnesením.
 
-(3) Teprve pokud bez úspěchu vyčerpají tyto prostředky, mohou sjednat rozhodčí smlouvu ve prospěch rozhodčí komise nebo se obrátit na soud.
+(2) V případě sporu, který vznikne při řešení projektu nebo v souvislosti s ním a který nejsou účastníci s to vyřešit samy anebo v součinnosti s republikovým předsednictvem, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka zapsaného u rozhodčí komise((lnk na seznam)). 
+
+(3) V případě neúspěchu smírčího jednání se obrátí na kontrolní komisi se stížností podle rozhodčího řádu ([[/rules/rr#stiznost|§ 10 RŘ]]). 
 
 ===== Řešení projektu =====
 
-== § 19 Povinnosti řešitele projektu ==
+== § 18 Povinnosti řešitele projektu ==
 
 Řešitel je povinen
-  * a) řešit projekt za podmínek uvedených ve smlouvě o projektu a jejích přílohách,
+  * a) řešit projekt za podmínek uvedených v přihlášce, v tomto předpise a dalších předpisech strany((zejména [[/rules/prah|pravidla hospodaření]])), s nimiž je povinen se seznámit,
   * b) řádně provést((§ 2601 zákona č. 89/2012 Sb., občanský zákoník.)) všechna díla, jejichž vznik byl předmětem projektu,
   * c) převést na stranu veškerý majetek, který získal řešením projektu, a to do správy příslušného orgánu zadavatele ([[rules/prah#sprava|§ 14 PraH]]), 
-  * d) zveřejnit výsledek projektu ([[#vysledek_projektu|§ 22]]) v odpovídajícím informačním systému zadavatele a poskytnout jiné informace související s projektem požadované zadavatelem,
-  * e) dokládat výdaje podle pravidel hospodaření ([[/rules/prah#ucetni_doklady|§ 13]]),
+  * d) zveřejnit výsledek projektu ([[#vysledek_projektu|§ 22]]) v odpovídajícím informačním systému strany a poskytnout jiné informace související s projektem požadované zadavatelem,
+  * e) dokládat výdaje podle pravidel hospodaření ([[/rules/prah#ucetni_doklady|§ 13 PraH]]),
   * g) vykazovat průběžně postup při své činnosti za účelem informování veřejnosti,
   * h) postoupit projekt jinému členovi, pokud není schopen ho řádně ukončit.
 
-== § 20 Práva řešitele projektu ==
+== § 19 Práva řešitele projektu ==
 
 Řešitel projektu má právo
   * a) na zřízení odpovídající rozpočtové položky ve výši prostředků na projekt a na převedení nevyčerpaných prostředků do nové rozpočtové položky v rozpočtu strany na následující rok, pokud dosud neuplynul termín pro řádné ukončení projektu,
   * b) proplácení výdajů projektu až do výše prostředků na projekt z odpovídající rozpočtové položky,
-  * c) na odměnu ([[#odmena_resitele|§ 22]]) z odpovídající rozpočtové položky, pokud byla uvedena ve finančních podmínkách projektu ([[#nalezitosti_prihlasky_projektu|§ 7 písm. g)]]), která musí být vyplacena nejpozději do 14 dnů po řádném ukončení projektu.
+  * c) na uzavření smlouvy o dílo(([[/ao/sablony/start#pracovne_pravni|vzory smluv]])) na odměnu ([[#odmena|§ 21]]) z odpovídající rozpočtové položky, pokud byla uvedena ve finančních podmínkách projektu ([[#nalezitosti_prihlasky_projektu|§ 7 písm. g)]]), která musí být vyplacena nejpozději do 14 dnů po řádném ukončení projektu.
 
-== § 21 Řádné ukončení projektu ==
+== § 20 Řádné ukončení projektu ==
 
 Projekt nebo úsek projektu je řádně ukončen, pokud řešení projektu nebo jeho úseku ve vymezené nebo dohodou prodloužené době skončilo a řešitel splnil všechny své povinnosti. O řádném ukončení sepíší účastníci projektu záznam.
 
-== § 22 Odměna ==
+== § 21 Odměna ==
 
-Odměna řešiteli nebo jím navrženým osobám a kontrolorovi je výdajem projektu, který strana hradí jen tehdy, pokud
+Odměna řešiteli nebo jím navrženým osobám je výdajem projektu, který strana hradí jen tehdy, pokud
   * a) projekt nebo jeho úsek vymezený v přihlášce byl řádně ukončen,
   * b) jde o zvlášť složitou a časově náročnou činnost,
   * c) výše odměny za projekt nebo jeho úsek byla uvedena v přihlášce projektu a nepřesahuje 80 Kč za hodinu.
 
-== § 23 Výsledek projektu==
+== § 22 Výsledek projektu==
 
 (1) **Výsledek projektu** je dílo vzniklé díky projektu nebo záznam tohoto díla či jiného řešení projektu. Součástí výsledku projektu je také stručná zpráva o řešení projektu, včetně zhodnocení, jak byl dosažen veřejně prospěšný účel. 
 
-(2) Na všech výsledcích je řešitel projektu povinen uvést informaci, že jde o veřejně prospěšný projekt financovaný ze státního příspěvku strany s uvedením odkazu na web projektu, ledaže to není ze zvláštního důvodu možné.
+(2) Na všech výsledcích je řešitel projektu povinen uvést informaci, že jde o veřejně prospěšný projekt financovaný ze státního příspěvku strany s uvedením odkazu na web strany, ledaže to není ze zvláštního důvodu možné.
