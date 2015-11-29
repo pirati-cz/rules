@@ -49,15 +49,19 @@ Každé kolo participativního rozpočtování zahajuje republikový výbor usne
 
 == § 7 Náležitosti přihlášky projektu==
 
-Přihláška projektu se podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor. Přihláška projektu musí obsahovat aspoň následující údaje:
-  * a) název projektu, k němuž se přihláška podává, a případně upřesnění záměru, které přihlášku dostatečně odlišuje od ostatních přihlášek,
+(1) Přihláška projektu se podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor. 
+
+(2) Přihláška projektu musí obsahovat aspoň následující údaje:
+  * a) **název projektu**, k němuž se přihláška podává, a případně upřesnění záměru, které přihlášku dostatečně odlišuje od ostatních přihlášek,
   * b) veřejně prospěšný účel, který má být projektem dosažen,
   * c) označení účastníků projektu ([[#ucastnici_projektu|§ 4]]),
   * d) věcné podmínky projektu (vybavení k řešení projektu, které bude nutné zakoupit nebo se souhlasem jeho správce používat),
   * e) časové podmínky projektu (termín zahájení a řádného ukončení projektu, členění projektu na úseky, odhadovaný celkový čas strávený dobrovolnickou prací na projektu),
   * f) osobní podmínky projektu (označení osob, které přislíbily věnovat svůj čas projektu dobrovolnicky)
   * g) finanční podmínky projektu (minimální a maximální výše prostředků na projekt, při jejichž získání bude projekt řešen, orientační rozpočet projektu, další zdroje financování, výše odměny pro řešitele nebo jiné osoby ([[#odmena|§ 21]]), pokud je navrhována),
-  * h) upřesnění způsobu a termínu, kdy bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 22]]).
+  * h) upřesnění způsobu a termínu, kdy bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 22]]),
+
+(3) Přihláška může obsahovat i další údaje, zejména krátký srozumitelný **popis projektu** a nebo **výzvu k podpoře** členům, která nesmí přesáhnout délku 200 znaků.
 
 ===== Výběr přihlášek =====
 
@@ -66,7 +70,7 @@ Přihláška projektu se podává řešitel písemně prostřednictvím informa�
 Administrativní odbor 
   * a) bezodkladně po vyhlášení kola participativního rozpočtování vydá jeho harmonogram, jak vyplývá z tohoto předpisu,
   * b) bezodkladně po termínu pro přihlášení projektů shromáždí všechny přijatelné přihlášky,
-  * c) vyhlásí hlasování o projektech a jeho výsledek, a to přiměřeně způsobu, jakým hlasuje celostátní fórum v řádně oznámeném hlasování o usnesení.
+  * c) vyhlásí hlasování o projektech a jeho výsledek, a to přiměřeně způsobu, jakým hlasuje celostátní fórum v řádně oznámeném hlasování o usnesení. K oznámení hlasován připojí výzvu k podpoře([[#nalezitosti_prihlasky_projektu|§ 7(3)]]) každé přijatelné přihlášky, pokud je uvedena
 
 == § 9 Hlasování o projektech ==
 
@@ -88,7 +92,7 @@ Výše prostředků, kterou určitý projekt získal v participativním rozpočt
   * b) skutečnost, zda může být projekt zahájen; projekt může být zahájen právě tehdy, pokud získané prostředky na projekt dosahují aspoň minimální výše prostředků na projekt uvedené v přihlášce.
 
 (2) Pokud projekt může být zahájen, 
-  * a) finanční odbor pro něj zaregistruje(([[/rules/ropr#registrace_rozpoctu|§ 14(2) RoPr]])) výdajovou rozpočtovou položku([[/rules/ropr#rozpoctova_polozka|§ 8 RoPr]]) pod názvem projektu([[#nalezitosti_prihlasky_projektu|(§ 7 a)]]), rozpočtovým limitem(([[/rules/ropr#rozpoctova_polozka|§ 8(1)a) RoPr]])) ve výši získaných prostředků([[#ziskane_prostredky_na_projekt|§ 10]]) a příslušným výkonným orgánem jako hospodařící organizační složkou(([[/rules/ropr#rozpoctova_polozka|§ 8(1)c) RoPr]])); dále jako účel peněz(([[/rules/ropr#rozpoctova_polozka|§ 8(2)a) RoPr]])) odkáže přihlášku projektu.
+  * a) finanční odbor pro něj zaregistruje(([[/rules/ropr#registrace_rozpoctu|§ 14(2) RoPr]])) výdajovou rozpočtovou položku([[/rules/ropr#rozpoctova_polozka|§ 8 RoPr]]) pod názvem projektu([[#nalezitosti_prihlasky_projektu|(§ 7(2)a)]]), rozpočtovým limitem(([[/rules/ropr#rozpoctova_polozka|§ 8(1)a) RoPr]])) ve výši získaných prostředků([[#ziskane_prostredky_na_projekt|§ 10]]) a příslušným výkonným orgánem jako hospodařící organizační složkou(([[/rules/ropr#rozpoctova_polozka|§ 8(1)c) RoPr]])); dále jako účel peněz(([[/rules/ropr#rozpoctova_polozka|§ 8(2)a) RoPr]])) odkáže přihlášku projektu.
   * b) záměry((viz [[/rules/prah#zamer_a_jeho_celkove_naklady|§§ 10 a 11 PraH]])) z této rozpočtové položky odpovídající přihlášce s výjimkou odměny[[#odmena|(§ 21)]] se považují za schválené bez ohledu na jejich výši.
 
 ===== Zahájení a řízení projektu  =====
