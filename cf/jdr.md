@@ -46,9 +46,7 @@ Cílem jednání celostátního fóra je rozhodovat v jeho působnosti
 
 ##### § 5 Skupina členů
 
-**Skupinou členů** se v tomto předpisu rozumí jen taková skupina, která čítá aspoň stanovený počet členů strany, kteří podpořili určitý návrh. Není-li stanoveno jinak,[^zvlastni-pocet] stanoví se počet členů u návrhu na zahájení jednání jako dvojnásobek odmocniny z počtu přítomných členů, nejméně však jedna setina a nejvýše jedna pětina z počtu přítomných členů. U návrhu na již zahájeném jednání se takto stanovený počet snižuje na polovinu.
-
-[^zvlastni-pocet]: Čl. 8 odst. 5 písm. h) stanov.
+**Skupinou členů** se v tomto předpisu rozumí jen taková skupina, která čítá aspoň stanovený počet členů strany, kteří podpořili určitý návrh. Počet členů se stanoví u návrhu na zahájení jednání jako dvojnásobek odmocniny z počtu přítomných členů, nejméně však jedna setina a nejvýše jedna pětina z počtu přítomných členů. U návrhu na již zahájeném jednání se takto stanovený počet snižuje na polovinu.
 
 #####  § 6 Přístup na jednání
 
