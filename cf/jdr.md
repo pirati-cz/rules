@@ -411,7 +411,9 @@ Celostátní fórum si vyhrazuje do své působnosti
 
 *  d) primární volby k výběru kandidáta navrženého do volby prezidenta České republiky,
 
-*  e) sestavování participativního rozpočtu za podmínek prováděcího vnitřního předpisu.
+*  e) sestavování participativního rozpočtu za podmínek prováděcího vnitřního předpisu,
+
+* f) volbu celostátního lídra pro volby do Poslanecké sněmovny.
 
 [^volebni-rad]: § 23 volebního řádu.
 
