@@ -210,7 +210,7 @@ Přihlášený kandidát musí mít aktuální a pravdivou osobní prezentaci na
 
 (2) Pokud po rozhodujícím hlasování trvá stav, kdy je volbu třeba naléhavě provést, bezprostředně se pokračuje dalším rozhodujícím hlasováním, není-li schválen jiný návrhu postupu nebo není zasedání ukončeno.
 
-(3) Ve vztahu k republikovému předsednictvu se ustanovení o náhradnictví nepoužijí.
+(3) Z republikového předsednictva se volí samostatně jen předseda. Ve vztahu k republikovému předsednictvu se ustanovení o náhradnictví nepoužijí.
 ##### § 23 Rozhodující hlasování
 
 V rozhodujícím hlasování celostátní fórum vybere z navržených kandidátů takový počet kandidátů, který může být nejvýše zvolen.
