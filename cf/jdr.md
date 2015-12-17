@@ -274,7 +274,7 @@ V rozhodujícím hlasování celostátní fórum vybere jednu z následujících
 
 ##### § 31 Postup při odvolání
 
-(1) Jednání zahájí předsedající jen tehdy, pokud je mu předloží návrh na odvolání celostátním fórem zvoleného člena orgánu strany nebo všech takových členů v orgánu strany. Návrh na odvolání jsou oprávněni předložit jen
+(1) Jednání zahájí předsedající jen tehdy, pokud je mu předložen návrh na odvolání celostátním fórem zvoleného člena orgánu strany nebo všech takových členů v orgánu strany. Návrh na odvolání jsou oprávněni předložit jen
 
 *  a) skupina členů, nebo 
 
