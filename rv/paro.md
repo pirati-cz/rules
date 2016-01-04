@@ -59,7 +59,7 @@ Každé kolo participativního rozpočtování zahajuje republikový výbor usne
   * e) časové podmínky projektu (termín zahájení a řádného ukončení projektu, členění projektu na úseky, odhadovaný celkový čas strávený dobrovolnickou prací na projektu),
   * f) osobní podmínky projektu (označení osob, které přislíbily věnovat svůj čas projektu dobrovolnicky)
   * g) finanční podmínky projektu (minimální a maximální výše prostředků na projekt, při jejichž získání bude projekt řešen, orientační rozpočet projektu, další zdroje financování, výše odměny pro řešitele nebo jiné osoby ([[#odmena|§ 21]]), pokud je navrhována),
-  * h) upřesnění způsobu a termínu, kdy bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 22]]),
+  * h) upřesnění způsobu a termínu, kdy bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 22]]).
 
 (3) Přihláška může obsahovat i další údaje, zejména krátký srozumitelný **popis projektu** a nebo **výzvu k podpoře** členům, která nesmí přesáhnout délku 200 znaků.
 
@@ -70,7 +70,7 @@ Každé kolo participativního rozpočtování zahajuje republikový výbor usne
 Administrativní odbor 
   * a) bezodkladně po vyhlášení kola participativního rozpočtování vydá jeho harmonogram, jak vyplývá z tohoto předpisu,
   * b) bezodkladně po termínu pro přihlášení projektů shromáždí všechny přijatelné přihlášky,
-  * c) vyhlásí hlasování o projektech a jeho výsledek, a to přiměřeně způsobu, jakým hlasuje celostátní fórum v řádně oznámeném hlasování o usnesení. K oznámení hlasování připojí výzvu k podpoře([[#nalezitosti_prihlasky_projektu|§ 7(3)]]) každé přijatelné přihlášky, pokud je uvedena
+  * c) vyhlásí hlasování o projektech a jeho výsledek, a to přiměřeně způsobu, jakým hlasuje celostátní fórum v řádně oznámeném hlasování o usnesení. K oznámení hlasování připojí výzvu k podpoře([[#nalezitosti_prihlasky_projektu|§ 7(3)]]) každé přijatelné přihlášky, pokud je uvedena.
 
 == § 9 Hlasování o projektech ==
 
