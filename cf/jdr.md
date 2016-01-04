@@ -40,7 +40,9 @@ Cílem jednání celostátního fóra je rozhodovat v jeho působnosti
 
 *  d) není projednáván na žádném jiném jednání celostátního fóra,
 
-*  e) je podán včas, je-li pro jeho podání stanovena lhůta.
+*  e) uběhli alespoň 3 měsíce od posledního jednání v této věci, nepředkládá-li návrh republikový výbor,
+
+*  f) je podán včas, je-li pro jeho podání stanovena lhůta.
  
 (2) Přijatelný návrh předsedající zaznamená, případně požádá o jeho podání v písemné podobě, je-li to třeba. Pokud je návrh nepřijatelný, předsedající pomůže navrhovateli vadu návrhu odstranit, pokud je to možné. Jinak předsedající návrh prohlásí za nepřijatelný a dál k němu nepřihlíží. 
 
@@ -180,9 +182,9 @@ Jednání zahájí předsedající jen tehdy, pokud
 
 *  a) je třeba zvolit členy orgánu strany voleného celostátním fórem, aby byl řádně obsazen,[^radne-obsazeni] nebo lze-li takovou potřebu v následujícím měsíci očekávat,
 
-*  b) orgán strany volený celostátním fórem požádá o doplňující volbu ke zvolení dalších členů tohoto orgánu, pokud je to možné,
+*  b) orgán strany volený celostátním fórem navrhne doplňující volbu ke zvolení dalších členů tohoto orgánu, pokud je to možné,
 
-*  c) skupina členů požádá o doplňující volbu ke zvolení dalších členů některého orgánu strany, pokud je to možné,
+*  c) skupina členů navrhne doplňující volbu ke zvolení dalších členů některého orgánu strany, pokud je to možné,
 
 *  d) je třeba v primárních volbách zvolit kandidáty strany do celostátních voleb, kde si celostátní fórum volbu vyhradilo (§ 45).
 
@@ -292,7 +294,6 @@ Jednání zahájí předsedající jen tehdy, pokud je mu předložen návrh sku
 
 
 ##### § 33 Postup při sestavování pořadu zasedání
-
  
 (1) Jednání zahájí předsedající jen tehdy, pokud bylo svoláno zasedání (§ 37). Na jednání celostátní fórum rozvrhuje vyhrazenou dobu konání zasedání, aby mohl být sestaven pořad jednání.
 
