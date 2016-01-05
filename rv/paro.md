@@ -49,7 +49,7 @@ Každé kolo participativního rozpočtování zahajuje republikový výbor usne
 
 == § 7 Náležitosti přihlášky projektu==
 
-Přihláška projektu se podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor. Přihláška projektu musí obsahovat aspoň následující údaje:
+Přihlášku projektu podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor. Přihláška projektu musí obsahovat aspoň následující údaje:
   * a) název projektu, k němuž se přihláška podává, a případně upřesnění záměru, které přihlášku dostatečně odlišuje od ostatních přihlášek,
   * b) veřejně prospěšný účel, který má být projektem dosažen,
   * c) označení účastníků projektu ([[#ucastnici_projektu|§ 4]]),
@@ -126,7 +126,7 @@ Není-li v přihlášce předem stanoveno jinak, pro díla vzniklá při řešen
 
 (1) Proti rozhodnutím výkonného orgánu se lze odvolat k republikovému předsednictvu, které ve věci do týdne rozhodne usnesením.
 
-(2) V případě sporu, který vznikne při řešení projektu nebo v souvislosti s ním a který nejsou účastníci s to vyřešit samy anebo v součinnosti s republikovým předsednictvem, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka zapsaného u rozhodčí komise((lnk na seznam)). 
+(2) V případě sporu, který vznikne při řešení projektu nebo v souvislosti s ním a který nejsou účastníci s to vyřešit sami anebo v součinnosti s republikovým předsednictvem, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka zapsaného u rozhodčí komise((lnk na seznam)). 
 
 (3) V případě neúspěchu smírčího jednání se obrátí na kontrolní komisi se stížností podle rozhodčího řádu ([[/rules/rr#stiznost|§ 10 RŘ]]). 
 
