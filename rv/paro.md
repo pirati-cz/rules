@@ -112,7 +112,7 @@ Dodáním zprávy podle tohoto ustanovení platí zpráva za doručenou.
 
 (3) Účast řešitele na projektu zaniká buď rozhodnutím výkonného orgánu z předepsaného důvodu nebo vystoupením řešitele z projektu. Účast na projektu zaniká jen písemným oznámením toho, kdo chce zániku účasti na projektu dosáhnout, všem účastníkům. 
 
-(4) Pokud řešitel přestal být účastníkem projektu, lze její práva a povinnosti bez jejího souhlasu postoupit jinému členovi strany rozhodnutím výkonného orgánu.
+(4) Pokud řešitel přestal být účastníkem projektu, lze jeho práva a povinnosti bez jeho souhlasu postoupit jinému členovi strany rozhodnutím výkonného orgánu.
 
 == § 15 Prodloužení projektu ==
 
