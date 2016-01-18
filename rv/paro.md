@@ -49,8 +49,10 @@ Každé kolo participativního rozpočtování zahajuje republikový výbor usne
 
 == § 7 Náležitosti přihlášky projektu==
 
-Přihlášku projektu podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor. Přihláška projektu musí obsahovat aspoň následující údaje:
-  * a) název projektu, k němuž se přihláška podává, a případně upřesnění záměru, které přihlášku dostatečně odlišuje od ostatních přihlášek,
+(1) Přihlášku projektu podává řešitel písemně prostřednictvím informačního systému, který vede administrativní odbor.
+
+(2) Přihláška projektu musí obsahovat aspoň následující údaje:
+  * a) **název projektu**, k němuž se přihláška podává, a případně upřesnění záměru, které přihlášku dostatečně odlišuje od ostatních přihlášek,
   * b) veřejně prospěšný účel, který má být projektem dosažen,
   * c) označení účastníků projektu ([[#ucastnici_projektu|§ 4]]),
   * d) věcné podmínky projektu (vybavení k řešení projektu, které bude nutné zakoupit nebo se souhlasem jeho správce používat),
@@ -59,6 +61,8 @@ Přihlášku projektu podává řešitel písemně prostřednictvím informačn�
   * g) finanční podmínky projektu (minimální a maximální výše prostředků na projekt, při jejichž získání bude projekt řešen, orientační rozpočet projektu, další zdroje financování, výše odměny pro řešitele nebo jiné osoby ([[#odmena|§ 21]]), pokud je navrhována),
   * h) upřesnění způsobu a termínu, kdy bude výsledek projektu zveřejněn ([[#vysledek_projektu|§ 22]]).
 
+(3) Přihláška může obsahovat i další údaje, zejména krátký srozumitelný **popis projektu** a nebo **výzvu k podpoře** členům, která nesmí přesáhnout délku 200 znaků.
+
 ===== Výběr přihlášek =====
 
 == § 8 Postup při výběru ==
@@ -66,7 +70,7 @@ Přihlášku projektu podává řešitel písemně prostřednictvím informačn�
 Administrativní odbor 
   * a) bezodkladně po vyhlášení kola participativního rozpočtování vydá jeho harmonogram, jak vyplývá z tohoto předpisu,
   * b) bezodkladně po termínu pro přihlášení projektů shromáždí všechny přijatelné přihlášky,
-  * c) vyhlásí hlasování o projektech a jeho výsledek, a to přiměřeně způsobu, jakým hlasuje celostátní fórum v řádně oznámeném hlasování o usnesení.
+  * c) vyhlásí hlasování o projektech a jeho výsledek, a to přiměřeně způsobu, jakým hlasuje celostátní fórum v řádně oznámeném hlasování o usnesení. K oznámení hlasování připojí výzvu k podpoře([[#nalezitosti_prihlasky_projektu|§ 7(3)]]) každé přijatelné přihlášky, pokud je uvedena.
 
 == § 9 Hlasování o projektech ==
 
