@@ -18,7 +18,7 @@ Tento předpis upravuje
 
 (1) Na každém projektu se vždy účastní
   * a) **řešitel** projektu, který projekt přihlašuje do participativního rozpočtování, rozhoduje o všech záležitostech projektu a nese za něj plnou odpovědnost,
-  * b) **příslušný výkonný orgán** jednající za stranu; příslušným orgánem je výkonný orgán s odpovídající celostátní působností, který projekty ve své působnosti koordinuje, hospodaří s prostředky projektu a kontroluje plnění projektu, zejména veřejně prospěšného účelu za stranu jako zadavatelku.
+  * b) **příslušný výkonný orgán** jednající za stranu; příslušným orgánem je výkonný orgán s odpovídající celostátní působností, který projekty ve své působnosti koordinuje, hospodaří s prostředky projektu a kontroluje plnění projektu, zejména veřejně prospěšného účelu za stranu.
 
 (2) Řešitelem projektu může být jen člen, který
   * a) není v rejstříku dlužníků se splatnými závazky vůči straně, pokud je veden, a
