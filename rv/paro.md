@@ -99,20 +99,20 @@ Výše prostředků, kterou určitý projekt získal v participativním rozpočt
 
 == § 12 Zahájení projektu ==
 
-Pokud je projekt možné zahájit ([[#vysledek_hlasovani|§ 11(1)b)]]), řešitel zahájí projekt. Pokud řešitel nezahájí v termínu projekt, stává se jeho přihláška nepřijatelnou a dále se k ní nepřihlíží.
+Pokud je projekt možné zahájit ([[#vysledek_hlasovani|§ 11(1)b)]]), řešitel zahájí projekt. Pokud řešitel nezahájí v termínu projekt, jedná se o závažné porušení povinností a projekt může být podstoupen jinému řešiteli([[#zanik_ucasti_na_projektu|§ 14]]).
 
 == § 13 Doručování ==
 
 Účastníci projektu souhlasí s tím, že k doručování lze používat elektronických nástrojů strany. 
   * a) Vůči straně mohou ostatní účastníci projektu právně jednat pouze prostřednictvím podatelny příslušného orgánu, ledaže je mu ze zvláštních důvodů třeba zaslat zprávu soukromou zprávou prostřednictvím uživatelského účtu nebo skupiny. 
   * b) Strana vůči ostatním účastníkům projektu právně jedná prostřednictvím jejich uživatelského účtu. 
-Dodáním zprávy podle tohoto ustanovení platí zpráva za doručenou. 
+Dodáním zprávy podle tohoto ustanovení platí zpráva za doručenou.
 
 == § 14 Zánik účasti na projektu ==
 
 (1) Účast strany na projektu nezaniká. Důvodem zániku účasti řešitele na projektu je jen pozbytí způsobilosti být účastníkem projektu nebo závažné porušení povinností řešitele ([[#povinnosti_resitele_projektu|§ 18]]). 
 
-(2) Porušení povinnosti se může dovolat jen účastník, který ho nezpůsobil a je jím dotčen. U nepodstatného porušení smlouvy se požaduje předchozí výzva k nápravě s upozorněním na hrozící následky.
+(2) Porušení povinnosti se může dovolat jen účastník, který ho nezpůsobil a je jím dotčen. U nepodstatného povinností se požaduje předchozí výzva k nápravě s upozorněním na hrozící následky.
 
 (3) Účast řešitele na projektu zaniká buď rozhodnutím výkonného orgánu z předepsaného důvodu nebo vystoupením řešitele z projektu. Účast na projektu zaniká jen písemným oznámením toho, kdo chce zániku účasti na projektu dosáhnout, všem účastníkům. 
 
@@ -130,7 +130,7 @@ Není-li v přihlášce předem stanoveno jinak, pro díla vzniklá při řešen
 
 (1) Proti rozhodnutím výkonného orgánu se lze odvolat k republikovému předsednictvu, které ve věci do týdne rozhodne usnesením.
 
-(2) V případě sporu, který vznikne při řešení projektu nebo v souvislosti s ním a který nejsou účastníci s to vyřešit sami anebo v součinnosti s republikovým předsednictvem, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka zapsaného u rozhodčí komise((lnk na seznam)). 
+(2) V případě sporu, který vznikne při řešení projektu nebo v souvislosti s ním a který nejsou účastníci s to vyřešit sami anebo v součinnosti s republikovým předsednictvem, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka zapsaného u rozhodčí komise(([[https://forum.pirati.cz/podatelna-rozhodci-komise-f283/holubice-miru-prostrednici-pro-smirci-jednani-t31939.html|seznam prostředníků pro smírčí jednání]])). 
 
 (3) V případě neúspěchu smírčího jednání se obrátí na kontrolní komisi se stížností podle rozhodčího řádu ([[/rules/rr#stiznost|§ 10 RŘ]]). 
 
@@ -141,8 +141,8 @@ Není-li v přihlášce předem stanoveno jinak, pro díla vzniklá při řešen
 Řešitel je povinen
   * a) řešit projekt za podmínek uvedených v přihlášce, v tomto předpise a dalších předpisech strany((zejména [[/rules/prah|pravidla hospodaření]])), s nimiž je povinen se seznámit,
   * b) řádně provést((§ 2601 zákona č. 89/2012 Sb., občanský zákoník.)) všechna díla, jejichž vznik byl předmětem projektu,
-  * c) převést na stranu veškerý majetek, který získal řešením projektu, a to do správy příslušného orgánu zadavatele ([[rules/prah#sprava|§ 14 PraH]]), 
-  * d) zveřejnit výsledek projektu ([[#vysledek_projektu|§ 22]]) v odpovídajícím informačním systému strany a poskytnout jiné informace související s projektem požadované zadavatelem,
+  * c) převést na stranu veškerý majetek, který získal řešením projektu, a to do správy příslušného orgánu strany ([[rules/prah#sprava|§ 14 PraH]]), 
+  * d) zveřejnit výsledek projektu ([[#vysledek_projektu|§ 22]]) v odpovídajícím informačním systému strany a poskytnout jiné informace související s projektem požadované stranou,
   * e) dokládat výdaje podle pravidel hospodaření ([[/rules/prah#ucetni_doklady|§ 13 PraH]]),
   * g) vykazovat průběžně postup při své činnosti za účelem informování veřejnosti,
   * h) postoupit projekt jinému členovi, pokud není schopen ho řádně ukončit.
