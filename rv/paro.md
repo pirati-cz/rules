@@ -26,7 +26,7 @@ Tento předpis upravuje
 
 == § 5 Kolo participativního rozpočtování ==
 
-Každé kolo participativního rozpočtování zahajuje republikový výbor usnesením vydaným na návrh republikového předsednictva, které obsahuje
+Každé kolo participativního rozpočtování zahajuje republikový výbor usnesením, které obsahuje
   * a) termín pro přihlášení projektů,
   * b) rozpočtový strop kola,
   * c) počet hlasů každého člena,
