@@ -17,21 +17,13 @@ zásadní      : ne #zda byl předpis schválen jako zásadní návrh
 Kromě [[:ao:pravidla:forum|všeobecných pravidel fóra]] na jednání celostátního fóra platí tato pravidla podle [[:rules:jdr|jednacího řádu]]:
   * slušnost,
   * mluvit k věci,
-  - neoslovovat přímo((Pokud chceš mluvit ne k věci, ale k člověku, použij obrat „Prostřednictvím předsedajícího bych chtěl Honzovi připomenout…“))
   - stručnost((Spojuj příspěvky do jednoho, nereaguj na maličkosti, necituj dlouhé pasáže,))
-  - z formátování používej jen tučné, kurzívu a odstavce. 
 
 Příspěvky porušující pravidla se přesunou do Zvláštních záznamů.
 
 ===== Veřejnost jednání =====
 
 Byla-li prohlášena za [[rules:jdr#zahajeni_a_ukonceni_jednani|veřejná]], jsou probíhající jednání celostátního fóra na internetovém fóru a zde archivovaná jednání celostátního fóra přístupná všem pro čtení bez nutnosti registrace na internetovém fóru.
-
-===== Členské podněty celostátnímu fóru =====
-
-Celostátní fórum lze z [[https://www.ceskapiratskastrana.cz/forum/viewforum.php?f=350|podnětu členů svolat]], požádá-li o to nejméně pětina členů společně s návrhem pořadu jednání nebo pokud se uvolnila funkce volená celostátním fórem. Důvodem pro svolání mohou být zejména
-  - **mimořádný přezkum** rozhodnutí orgánu strany ([[:rules:st#cl_8_celostatni_forum|Čl. 5(8)h St]]) a
-  - **návrh předpisu nebo programového dokumentu**.
 
 ===== Zásady elektronického hlasování =====
 
