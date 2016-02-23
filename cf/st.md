@@ -207,7 +207,7 @@
 
 (4) Oblastní fórum
 
-*  a) volí a odvolává ze svého středu oblastní předsednictvo, 
+*  a) volí a odvolává ze svého středu oblastní předsednictvo, případně další zástupce a funkcionáře oblastního sdružení, 
 
 *  b) provádí politiku strany na oblastní úrovni,
 
@@ -263,7 +263,7 @@
 
 *  a) volí a odvolává republikové předsednictvo,
 
-*  b) volí a odvolává volené členy republikového výboru,
+*  b) volí a odvolává členy republikového výboru volené celostátním fórem,
 
 *  c) zřizuje a ruší komise a odbory,
 
