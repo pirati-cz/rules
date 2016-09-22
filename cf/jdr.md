@@ -324,7 +324,7 @@ Průběh jednání zajišťuje informační systém strany ve správě administr
 | ---------------                                                   | ----                                        | 
 | Všeobecná shoda na návrhu postupu                              | 24 hodin                                    | 
 | Hlasování o návrhu postupu (mimo rozhodující hlasování) | 24 hodin                                    | 
-| Rozhodující hlasování                                         | od pátku 10 hodin do pondělí 22 hodin | 
+| Kolo rozhodujícího hlasování                                         | od pátku 10 hodin do pondělí 22 hodin | 
 
 ### Zasedání
 
