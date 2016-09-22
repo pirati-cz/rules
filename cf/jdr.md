@@ -46,7 +46,7 @@ Cílem jednání celostátního fóra je rozhodovat v jeho působnosti
 
 ##### § 5 Skupina členů
 
-**Skupinou členů** se v tomto předpisu rozumí jen taková skupina, která čítá aspoň stanovený počet členů strany, kteří podpořili určitý návrh. Počet členů se stanoví u návrhu na zahájení jednání jako dvojnásobek odmocniny z počtu přítomných členů, nejméně však jedna setina a nejvýše jedna pětina z počtu přítomných členů. U návrhu na již zahájeném jednání se takto stanovený počet snižuje na polovinu.
+**Skupinou členů** se v tomto předpisu rozumí jen taková skupina, která čítá aspoň stanovený počet členů strany, kteří podpořili určitý návrh. Počet členů se stanoví u návrhu na zahájení jednání jako dvojnásobek druhé odmocniny z počtu přítomných členů, nejméně však jedna setina a nejvýše jedna pětina z počtu přítomných členů. U návrhu na již zahájeném jednání se takto stanovený počet snižuje na polovinu.
 
 #####  § 6 Přístup na jednání
 
@@ -192,17 +192,19 @@ Jednání zahájí předsedající jen tehdy, pokud
 
 (1) Úvodní slovo v rozpravě přednáší předsedající, který představí úkoly voleného orgánu strany. Každý kandidát na funkci popíše v rozpravě způsob, jakým bude funkci vykonávat, a jakou má k výkonu funkce způsobilost. Právo na závěrečné slovo má každý kandidát.
 
-(2) Lhůta pro navrhování kandidátů činí 14 dnů od zahájení jednání. Pokud se v této lhůtě nepřihlásí aspoň takový počet kandidátů, aby mohl být orgán řádně obsazen, prodlouží předsedající lhůtu o dalších 7 dní, a to i opakovaně. 
+(2) Lhůta pro navrhování kandidátů činí 14 dnů od zahájení jednání. Pokud se v této lhůtě nepřihlásí aspoň takový počet přijatelných[^ prijatelnost] kandidátů, aby mohl být orgán řádně obsazen, prodlouží předsedající lhůtu o dalších 7 dní, a to i opakovaně. 
 
 (3) Doba na rozmyšlenou činí aspoň 2 dny. 
+
+[^prijatelnost]: viz § 4(1)c) JdŘ, § 21 JdŘ a také např. § 10 VŘ, či jiné podmínky zařazení návrhu kandidáta do hlasování.
 
 ##### § 21 Navrhovaní kandidátů 
 
 Přihlášený kandidát musí mít aktuální a pravdivou osobní prezentaci na webu strany se svým úplným jménem, podobenkou a životopisem, splňovat předpoklady pro výkon funkce a získat řádnou nominaci, přičemž
 
-*  a) Kandidáta do republikového výboru, republikového předsednictva, kontrolní komise, rozhodčí komise navrhuje krajské fórum svým usnesením nebo skupina členů.
+*  a) Kandidáta do republikového výboru, republikového předsednictva, kontrolní komise, rozhodčí komise a na celostátního lídra pro volby do Poslanecké sněmovny navrhuje krajské fórum svým usnesením nebo skupina členů.
 
-*  b) Kandidáta na vedoucího odboru, garanta programového bodu, nominaci do funkce člena vlády České republiky a nominaci do volby prezidenta České republiky navrhuje republikové předsednictvo, republikový výbor nebo skupina členů.
+*  b) Kandidáta na vedoucího odboru, nominaci do funkce člena vlády České republiky a nominaci do volby prezidenta České republiky navrhuje republikové předsednictvo, republikový výbor nebo skupina členů.
 
 ##### § 22 Volba republikového předsednictva 
 
@@ -306,8 +308,9 @@ Jednání zahájí předsedající jen tehdy, pokud je mu předložen návrh sku
 
 ##### § 34 Členský podnět 
 
- 
-Dokud nemá skupinový návrh předepsanou podporu, nazývá se členským podnětem. Navrhuje-li skupina členů zahájení jednání, musí být členům při získávání podpory dána též možnost projevit nesouhlas. Pokud s návrhem skupiny členů více členů nesouhlasí, než souhlasí, k návrhu na zahájení jednání se nepřihlíží.
+(1) Dokud nemá skupinový návrh předepsanou podporu, nazývá se členským podnětem. Navrhuje-li skupina členů zahájení jednání, musí být členům při získávání podpory dána též možnost projevit nesouhlas. Pokud s návrhem skupiny členů více členů nesouhlasí, než souhlasí, k návrhu na zahájení jednání se nepřihlíží.
+
+(2) Není-li stanoveno jinak, sběr podpory pro členský podnět nesmí překročit lhůtu 3 měsíců, případně prodlouženou o délku neukončeného souvisejícího jednání.
 
 ##### § 35 Průběh jednání
 
@@ -321,7 +324,7 @@ Průběh jednání zajišťuje informační systém strany ve správě administr
 | ---------------                                                   | ----                                        | 
 | Všeobecná shoda na návrhu postupu                              | 24 hodin                                    | 
 | Hlasování o návrhu postupu (mimo rozhodující hlasování) | 24 hodin                                    | 
-| Rozhodující hlasování                                         | od pátku 10 hodin do pondělí 22 hodin | 
+| Kolo rozhodujícího hlasování                                         | od pátku 10 hodin do pondělí 22 hodin | 
 
 ### Zasedání
 
