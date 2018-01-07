@@ -15,7 +15,7 @@ připravované změny předpisů schvalované příslušnými orgány.
 Podrobnosti o programu ``git`` se dočtete např. 
 v [tutoriálu][git-guide].
 
-Tohle je ke smazání: jen potřebuju zjistit jestli jde editovat pull request.
+jen potřebuju zjistit jestli jde editovat pull request.
 
 [daring-fireball]: http://daringfireball.net/projects/markdown/
 [git-guide]: http://rogerdudler.github.io/git-guide/
