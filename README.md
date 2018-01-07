@@ -15,6 +15,8 @@ připravované změny předpisů schvalované příslušnými orgány.
 Podrobnosti o programu ``git`` se dočtete např. 
 v [tutoriálu][git-guide].
 
+Teest!
+
 [daring-fireball]: http://daringfireball.net/projects/markdown/
 [git-guide]: http://rogerdudler.github.io/git-guide/
 
